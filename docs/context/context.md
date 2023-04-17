@@ -8,14 +8,18 @@
 
 LAYOUT_WITH_LEGEND()
 
-Person(pbc, "Personal Banking Customer", "A customer of the bank, with personal bank accounts.")
-System(ibs, "Internet Banking System", "Allows customers to view information about their bank accounts, and make payments.")
-System_Ext(es, "E-mail system", "The internal Microsoft Exchange e-mail system.")
-System_Ext(mbs, "Mainframe Banking System", "Stores all of the core banking information about customers, accounts, transactions, etc.")
+Person(pbc, "Докладчик", "Персона, которая хочет выступить на конференции с докладом по теме")
+Person(adm, "Администратор оргкомитета", "Представитель оргкомитета, который рецензирует доклады и составляет расписание")
+System(fmm, "Прием заявок ", "Подачи заявок на сайте для участия в конференции")
+System(ibs, "Обработка заявок ", "Обработка поступающих заявок от докладчиков")
+System_Ext(es, "Почтовый сервис", "Сервис отпправки e-mail сообщений")
+System_Ext(antp, "Антиплагиат", "российская система обнаружения текстовых заимствований")
 
-Rel(pbc, ibs, "Uses")
-Rel(es, pbc, "Sends e-mails to")
-Rel(ibs, es, "Sends e-mails", "SMTP")
-Rel(ibs, mbs, "Uses")
+Rel(pbc, fmm, "Подача")
+Rel(adm, ibs, "Рецензия")
+Rel(es, fmm, "Обратная связь")
+Rel(ibs, es, "Отправить уведомлени по e-mails", "SMTP")
+Rel(ibs, antp, "Запрос проверки")
+Rel(antp, ibs, "Результат проверки")
 @enduml
 ```
