@@ -8,89 +8,62 @@
 ```plantuml
 @startuml
 ' Логическая модель данных в варианте UML Class Diagram (альтернатива ER-диаграмме).
-namespace ShoppingCart {
+namespace Доклад {
 
- class ShoppingCart
+ class Заявка_Доклада
  {
   id : string
-  createDate : datetime
-  updateDate : datetime
-  customer : Customer
-  price : ShoppingCartPrice
-  cartItems : CartItem[]
+  type : Обратная_связь
+  доклады : Доклад[]
+  докладчик: Докладчик
+  статус: Статус_Заявки
  }
 
- class ShoppingCartPrice
+ class Доклад
  {
-  type : CartItemPrice
- }
- class CartItemPrice
- {
-  type : CartItemPriceType
+ id : string
+ статус: Рецензия
  }
 
- enum CartPriceType
+ class Статус_Заявки
  {
-  total
-  grandTotal
-  offeringDiscount
-  couponsDiscount
+  type : Обратная_связь
  }
 
- class CartItem
+ class Рецензия
  {
-  id : string
-  quantity : int
-  offering : Offering
-  relationship : CartItemRelationShip[]
-  price : CartItemPrice[]
-  status : CartItemStatus
+  type : Обратная_связь
  }
 
-  class Customer
+  enum Обратная_связь
+ {
+  рассмотрени
+  на_допаботку
+  допущен
+  не_допущен
+ }
+
+ class Докладчик
  {
   id : string
  }
- 
- class Offering
- {
-  id : string
-  isQuantifiable : boolean
-  actionType : OfferingActionType
-  validFor : ValidFor
- }
-  
- class ProductSpecificationRef
- {
-  id : string
- }
- 
- ShoppingCart *-- "1..*" ShoppingCartPrice
- ShoppingCartPrice -- CartPriceType
- ShoppingCart *-- "*" CartItem
- CartItem *-- "*" CartItemPrice
- CartItemPrice -- CartPriceType
- CartItem *-- "1" Offering
- Offering *-- "1" ProductSpecificationRef
- Offering *-- "0..1" ProductConfiguration
- ShoppingCart *-- "1" Customer
+
+  Заявка_Доклада *-- "1..*" Доклад
+  Заявка_Доклада *-- "1" Докладчик
+  Заявка_Доклада *-- "1" Статус_Заявки
+  Статус_Заявки -- Обратная_связь
+  Доклад *-- "1" Рецензия
+  Рецензия -- Обратная_связь
 }
 
-namespace Ordering {
- ProductOrder *-- OrderItem
- OrderItem *-- Product
- Product *-- ProductSpecificationRef
- ProductOrder *-- Party
+namespace Расписание {
+
+ class Расписание
+ {
+  id : string
+ }
+
 }
 
-namespace ProductCatalog {
- ShoppingCart.ProductSpecificationRef ..> ProductSpecification : ref
- Ordering.ProductSpecificationRef ..> ProductSpecification : ref
-}
-
-namespace CX {
- ShoppingCart.Customer ..> Customer : ref
- Ordering.Party ..> Customer : ref
-}
 @enduml
 ```
