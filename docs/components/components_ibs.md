@@ -14,23 +14,12 @@ AddElementTag("storage", $shape=RoundedBoxShape(), $bgColor="lightSkyBlue", $fon
 
 Person(pbc, "Докладчик", "Персона, которая хочет выступить на конференции с докладом по теме")
 Person(adm, "Администратор оргкомитета", "Представитель оргкомитета, который рецензирует доклады и составляет расписание")
-Person(usr, "Слушатель", "Участник конференции")
+
 
 System_Boundary(ibs, "Обработка Заявок на Доклад") {
    Container(web_form, "Прием заявки на сайте", "html, JavaScript", "Сайт helloconf.mts.ru")
    Container(lecture_service, "Заявки на Доклад", "Java, Spring Boot", "Сервис обработки заявок на Доклад")       
    ContainerDb(lecture_db, "Одобренные доклады", "PostgreSQL", "Хранение докладов")
-}
-
-System_Boundary(cnf, "Проведение конференции") {
-   Container(access_demo, "Доступ к Демонстрации", "", "")
-   Container(access_broadcast, "Доступ к Просмотру", "", "")   
-   Container(feetback, "Оценка выступления", "", "")    
-}
-
-System_Boundary(ppt, "Компоновка программы конференции") {
-   Container(conference_program, "Программа конференции", "", "") 
-   ContainerDb(conference_db, "Расписание", "PostgreSQL", "Хранение запланированных словов для конференций")
 }
 
 System_Ext(antp, "Антиплагиат", "Российская система обнаружения текстовых заимствований")  
@@ -46,33 +35,6 @@ Rel(lecture_service, es, "Отправить уведомлени по e-mails",
 Rel(es, pbc, "Обратная связь по заявке", "SMTP")
 Rel(lecture_service, antp, "Запрос проверки", "")
 Rel(antp, lecture_service, "Результат проверки", "")
-
-
-System_Ext(yt, "Видеосервис", "Видеосервис для проведения онлайн-трансляций")
-System_Ext(es, "Почтовый сервис", "Сервис отпправки e-mail сообщений")
-
-Rel(pbc, access_demo, "Выступление с докладом", "")
-Rel(usr, access_broadcast, "Просмотр выступления", "")
-Rel(usr, feetback, "Оценить выступление", "SMTP")
-Rel(feetback, es, "Отправить уведомлени по e-mails", "SMTP")
-Rel(es, pbc, "Обратная связь по докладу", "SMTP")
-
-
-Rel(access_demo, yt, "Трансляция выступления", "")
-Rel(access_broadcast, yt, "Просмотр выступления", "")
-
-
-
-Rel(adm, conference_program, "Составление программы из докладов", "")
-Rel(conference_db, conference_program, "Свободны слоты проведения", "")
-
-
-Rel(conference_program, lecture_db, "Тематика конференции", "")
-
-Rel(feetback, lecture_db, "Обратная связь по Докладу", "")
-
-Rel(conference_program, access_demo, "Программа", "")
-Rel(conference_program, access_broadcast, "Программа", "")
 
 
 SHOW_LEGEND()
