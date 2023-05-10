@@ -82,14 +82,13 @@ damir@AZURDRIVE-767:~$ wrk -d 60 -t 60 -c 60 --latency -s /mnt/c/mnt/get.lua htt
 Running 1m test @ http://localhost:8082/
   60 threads and 60 connections
   Thread Stats   Avg      Stdev     Max   +/- Stdev
-    Latency     0.00us    0.00us   0.00us    -nan%
-    Req/Sec     0.00      0.00     0.00      -nan%
+    Latency   517.56ms  317.78ms 827.32ms   85.71%
+    Req/Sec     3.29      3.40    10.00     85.71%
   Latency Distribution
-     50%    0.00us
-     75%    0.00us
-     90%    0.00us
-     99%    0.00us
-  0 requests in 1.01m, 0.00B read
-  Socket errors: connect 0, read 30326, write 0, timeout 0
-Requests/sec:      0.00
-Transfer/sec:       0.00B
+     50%  539.70ms
+     75%  826.55ms
+     90%  827.32ms
+     99%  827.32ms
+  7 requests in 1.00m, 2.04KB read
+Requests/sec:      0.12
+Transfer/sec:      34.81B
