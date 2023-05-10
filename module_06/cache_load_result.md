@@ -77,3 +77,19 @@ Running 1m test @ http://localhost:8082/
   Socket errors: connect 0, read 0, write 0, timeout 20
 Requests/sec:    223.48
 Transfer/sec:     65.67KB
+
+damir@AZURDRIVE-767:~$ wrk -d 60 -t 60 -c 60 --latency -s /mnt/c/mnt/get.lua http://localhost:8082/
+Running 1m test @ http://localhost:8082/
+  60 threads and 60 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     0.00us    0.00us   0.00us    -nan%
+    Req/Sec     0.00      0.00     0.00      -nan%
+  Latency Distribution
+     50%    0.00us
+     75%    0.00us
+     90%    0.00us
+     99%    0.00us
+  0 requests in 1.01m, 0.00B read
+  Socket errors: connect 0, read 30326, write 0, timeout 0
+Requests/sec:      0.00
+Transfer/sec:       0.00B
