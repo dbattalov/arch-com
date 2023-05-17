@@ -1,0 +1,18 @@
+[ 
+{ 
+    "_id":"1",
+"first_name":"Liam",
+"last_name":"Moore",
+"title":"Call Center Representative",
+"email":"Liam_Moore4478@iaart.store",
+"birth_date":"1981-11-27 13:44:56Z"
+},
+{ 
+    "_id":"2",
+"first_name":"Leah",
+"last_name":"Griffiths",
+"title":"Bookkeeper",
+"email":"Leah_Griffiths1716@hepmv.website",
+"birth_date":"1955-10-02 18:00:14Z"
+}
+]
