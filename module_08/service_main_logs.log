@@ -1,0 +1,1900 @@
+2023-05-20 01:58:36 INFO:     Will watch for changes in these directories: ['/']
+2023-05-20 01:58:36 INFO:     Uvicorn running on http://0.0.0.0:8083 (Press CTRL+C to quit)
+2023-05-20 01:58:36 INFO:     Started reloader process [1] using WatchFiles
+2023-05-20 01:58:37 INFO:     Started server process [8]
+2023-05-20 01:58:37 INFO:     Waiting for application startup.
+2023-05-20 01:58:37 INFO:     Application startup complete.
+2023-05-20 01:58:38 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 01:58:38 WARNING:root:
+2023-05-20 01:58:39 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 01:58:39 WARNING:root:
+2023-05-20 01:58:40 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 01:58:40 WARNING:root:
+2023-05-20 01:58:41 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 01:58:41 WARNING:root:
+2023-05-20 01:58:42 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 01:58:42 WARNING:root:
+2023-05-20 01:58:43 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 01:58:43 WARNING:root:
+2023-05-20 01:58:44 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 01:58:44 WARNING:root:
+2023-05-20 01:58:45 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 01:58:45 WARNING:root:
+2023-05-20 01:58:46 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 01:58:46 WARNING:root:
+2023-05-20 01:58:47 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 01:58:47 WARNING:root:
+2023-05-20 01:58:48 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 01:58:48 WARNING:root:
+2023-05-20 01:58:49 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 01:58:49 WARNING:root:
+2023-05-20 01:58:50 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 01:58:50 WARNING:root:
+2023-05-20 01:58:51 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 01:58:51 WARNING:root:
+2023-05-20 01:58:52 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 01:58:52 WARNING:root:
+2023-05-20 01:58:53 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 01:58:53 WARNING:root:
+2023-05-20 01:58:54 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 01:58:55 WARNING:root:
+2023-05-20 01:58:56 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 01:58:56 WARNING:root:
+2023-05-20 01:58:57 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 01:58:57 WARNING:root:
+2023-05-20 01:58:58 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 01:58:58 WARNING:root:
+2023-05-20 01:58:59 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 01:58:59 WARNING:root:
+2023-05-20 01:59:00 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 01:59:00 WARNING:root:
+2023-05-20 01:59:01 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 01:59:01 WARNING:root:
+2023-05-20 01:59:02 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 01:59:02 WARNING:root:
+2023-05-20 01:59:03 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 01:59:03 WARNING:root:
+2023-05-20 01:59:04 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 01:59:04 WARNING:root:
+2023-05-20 01:59:05 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 01:59:05 WARNING:root:
+2023-05-20 01:59:06 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 01:59:06 WARNING:root:
+2023-05-20 01:59:07 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 01:59:07 WARNING:root:
+2023-05-20 01:59:08 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 01:59:08 WARNING:root:
+2023-05-20 01:59:09 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 01:59:09 WARNING:root:
+2023-05-20 01:59:10 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 01:59:10 WARNING:root:
+2023-05-20 01:59:11 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 01:59:11 WARNING:root:
+2023-05-20 01:59:12 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 01:59:12 WARNING:root:
+2023-05-20 01:59:13 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 01:59:13 WARNING:root:
+2023-05-20 01:59:14 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 01:59:14 WARNING:root:
+2023-05-20 01:59:15 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 01:59:15 WARNING:root:
+2023-05-20 01:59:16 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 01:59:16 WARNING:root:
+2023-05-20 01:59:17 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 01:59:17 WARNING:root:
+2023-05-20 01:59:18 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 01:59:18 WARNING:root:
+2023-05-20 01:59:19 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 01:59:19 WARNING:root:
+2023-05-20 01:59:20 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 01:59:20 WARNING:root:
+2023-05-20 01:59:21 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 01:59:21 WARNING:root:
+2023-05-20 01:59:22 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 01:59:22 WARNING:root:
+2023-05-20 01:59:23 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 01:59:23 WARNING:root:
+2023-05-20 01:59:24 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 01:59:24 WARNING:root:
+2023-05-20 01:59:25 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 01:59:25 WARNING:root:
+2023-05-20 01:59:26 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 01:59:26 WARNING:root:
+2023-05-20 01:59:27 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 01:59:27 WARNING:root:
+2023-05-20 01:59:28 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 01:59:28 WARNING:root:
+2023-05-20 01:59:29 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 01:59:29 WARNING:root:
+2023-05-20 01:59:30 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 01:59:30 WARNING:root:
+2023-05-20 01:59:31 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 01:59:31 WARNING:root:
+2023-05-20 01:59:32 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 01:59:33 WARNING:root:
+2023-05-20 01:59:34 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 01:59:34 WARNING:root:
+2023-05-20 01:59:35 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 01:59:35 WARNING:root:
+2023-05-20 01:59:36 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 01:59:36 WARNING:root:
+2023-05-20 01:59:37 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 01:59:37 WARNING:root:
+2023-05-20 01:59:38 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 01:59:38 WARNING:root:
+2023-05-20 01:59:39 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 01:59:39 WARNING:root:
+2023-05-20 01:59:40 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 01:59:40 WARNING:root:
+2023-05-20 01:59:41 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 01:59:41 WARNING:root:
+2023-05-20 01:59:42 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 01:59:42 WARNING:root:
+2023-05-20 01:59:43 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 01:59:43 WARNING:root:
+2023-05-20 01:59:44 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 01:59:44 WARNING:root:
+2023-05-20 01:59:45 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 01:59:45 WARNING:root:
+2023-05-20 01:59:46 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 01:59:46 WARNING:root:
+2023-05-20 01:59:47 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 01:59:47 WARNING:root:
+2023-05-20 01:59:48 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 01:59:48 WARNING:root:
+2023-05-20 01:59:49 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 01:59:49 WARNING:root:
+2023-05-20 01:59:50 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 01:59:50 WARNING:root:
+2023-05-20 01:59:51 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 01:59:51 WARNING:root:
+2023-05-20 01:59:52 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 01:59:52 WARNING:root:
+2023-05-20 01:59:53 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 01:59:53 WARNING:root:
+2023-05-20 01:59:54 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 01:59:54 WARNING:root:
+2023-05-20 01:59:55 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 01:59:55 WARNING:root:
+2023-05-20 01:59:56 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 01:59:56 WARNING:root:
+2023-05-20 01:59:57 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 01:59:57 WARNING:root:
+2023-05-20 01:59:58 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 01:59:58 WARNING:root:
+2023-05-20 01:59:59 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 01:59:59 WARNING:root:
+2023-05-20 02:00:00 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 02:00:00 WARNING:root:
+2023-05-20 02:00:01 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 02:00:01 WARNING:root:
+2023-05-20 02:00:02 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 02:00:02 WARNING:root:
+2023-05-20 02:00:03 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 02:00:03 WARNING:root:
+2023-05-20 02:00:04 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 02:00:04 WARNING:root:
+2023-05-20 02:00:05 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 02:00:05 WARNING:root:
+2023-05-20 02:00:06 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 02:00:06 WARNING:root:
+2023-05-20 02:00:07 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 02:00:07 WARNING:root:
+2023-05-20 02:00:08 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 02:00:08 WARNING:root:
+2023-05-20 02:00:09 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 02:00:09 WARNING:root:
+2023-05-20 02:00:10 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 02:00:10 WARNING:root:
+2023-05-20 02:00:11 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 02:00:11 WARNING:root:
+2023-05-20 02:00:12 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 02:00:12 WARNING:root:
+2023-05-20 02:00:13 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 02:00:13 WARNING:root:
+2023-05-20 02:00:14 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 02:00:14 WARNING:root:
+2023-05-20 02:00:15 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 02:00:15 WARNING:root:
+2023-05-20 02:00:16 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 02:00:16 WARNING:root:
+2023-05-20 02:00:17 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 02:00:17 WARNING:root:
+2023-05-20 02:00:18 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 02:00:18 WARNING:root:
+2023-05-20 02:00:19 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 02:00:19 WARNING:root:
+2023-05-20 02:00:21 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 02:00:21 WARNING:root:
+2023-05-20 02:00:22 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 02:00:22 WARNING:root:
+2023-05-20 02:00:23 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 02:00:19 Moore
+2023-05-20 02:00:19 INFO:     172.19.0.1:39976 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 02:00:22 Moore
+2023-05-20 02:00:22 INFO:     172.19.0.1:39982 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 02:00:23 Moore
+2023-05-20 02:00:23 INFO:     172.19.0.1:39988 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 02:00:24 Moore
+2023-05-20 02:00:24 INFO:     172.19.0.1:39994 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 02:00:24 Moore
+2023-05-20 02:00:24 INFO:     172.19.0.1:40000 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 02:00:25 Moore
+2023-05-20 02:00:23 WARNING:root:
+2023-05-20 02:00:24 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 02:00:24 WARNING:root:
+2023-05-20 02:00:25 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 02:00:25 WARNING:root:
+2023-05-20 02:00:26 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 02:00:26 WARNING:root:
+2023-05-20 02:00:27 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 02:00:27 WARNING:root:
+2023-05-20 02:00:28 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 02:00:25 INFO:     172.19.0.1:40006 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 02:00:26 Moore
+2023-05-20 02:00:26 INFO:     172.19.0.1:40012 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 02:00:26 Moore
+2023-05-20 02:00:26 INFO:     172.19.0.1:40018 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 02:00:27 Moore
+2023-05-20 02:00:27 INFO:     172.19.0.1:40024 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 02:00:28 WARNING:root:
+2023-05-20 02:00:29 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 02:00:29 WARNING:root:
+2023-05-20 02:00:30 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 02:00:30 WARNING:root:
+2023-05-20 02:00:31 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 02:00:31 WARNING:root:
+2023-05-20 02:00:32 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 02:00:32 WARNING:root:
+2023-05-20 02:00:33 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 02:00:33 WARNING:root:
+2023-05-20 02:00:34 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 02:00:34 WARNING:root:
+2023-05-20 02:00:35 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 02:00:35 WARNING:root:
+2023-05-20 02:00:36 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 02:00:36 WARNING:root:
+2023-05-20 02:00:37 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 02:00:37 WARNING:root:
+2023-05-20 02:00:38 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 02:00:38 WARNING:root:
+2023-05-20 02:00:39 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 02:00:39 WARNING:root:
+2023-05-20 02:00:40 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 02:00:40 WARNING:root:
+2023-05-20 02:00:41 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 02:00:41 WARNING:root:
+2023-05-20 02:00:42 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 02:00:42 WARNING:root:
+2023-05-20 02:00:43 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 02:00:43 WARNING:root:
+2023-05-20 02:00:44 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 02:00:44 WARNING:root:
+2023-05-20 02:00:45 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 02:00:45 WARNING:root:
+2023-05-20 02:00:46 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 02:00:46 WARNING:root:
+2023-05-20 02:00:47 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 02:00:47 WARNING:root:
+2023-05-20 02:00:48 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 02:00:48 WARNING:root:
+2023-05-20 02:00:49 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 02:00:49 WARNING:root:
+2023-05-20 02:00:50 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 02:00:50 WARNING:root:
+2023-05-20 02:00:51 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 02:00:51 WARNING:root:
+2023-05-20 02:00:52 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 02:00:52 WARNING:root:
+2023-05-20 02:00:53 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 02:00:53 WARNING:root:
+2023-05-20 02:00:54 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 02:00:54 WARNING:root:
+2023-05-20 02:00:55 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 02:00:55 WARNING:root:
+2023-05-20 02:00:56 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 02:00:56 WARNING:root:
+2023-05-20 02:00:57 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 02:00:57 WARNING:root:
+2023-05-20 02:00:58 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 02:00:58 WARNING:root:
+2023-05-20 02:00:59 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 02:00:59 WARNING:root:
+2023-05-20 02:01:00 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 02:01:00 WARNING:root:
+2023-05-20 02:01:01 --- Logging error ---
+2023-05-20 02:01:01 Traceback (most recent call last):
+2023-05-20 02:01:01   File "/usr/local/lib/python3.10/dist-packages/urllib3/connection.py", line 174, in _new_conn
+2023-05-20 02:01:01     conn = connection.create_connection(
+2023-05-20 02:01:01   File "/usr/local/lib/python3.10/dist-packages/urllib3/util/connection.py", line 72, in create_connection
+2023-05-20 02:01:01     for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+2023-05-20 02:01:01   File "/usr/lib/python3.10/socket.py", line 955, in getaddrinfo
+2023-05-20 02:01:01     for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+2023-05-20 02:01:01 socket.gaierror: [Errno -3] Temporary failure in name resolution
+2023-05-20 02:01:01 
+2023-05-20 02:01:01 During handling of the above exception, another exception occurred:
+2023-05-20 02:01:01 
+2023-05-20 02:01:01 Traceback (most recent call last):
+2023-05-20 02:01:01   File "/usr/local/lib/python3.10/dist-packages/urllib3/connectionpool.py", line 703, in urlopen
+2023-05-20 02:01:01     httplib_response = self._make_request(
+2023-05-20 02:01:01   File "/usr/local/lib/python3.10/dist-packages/urllib3/connectionpool.py", line 398, in _make_request
+2023-05-20 02:01:01     conn.request(method, url, **httplib_request_kw)
+2023-05-20 02:01:01   File "/usr/local/lib/python3.10/dist-packages/urllib3/connection.py", line 239, in request
+2023-05-20 02:01:01     super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+2023-05-20 02:01:01   File "/usr/lib/python3.10/http/client.py", line 1282, in request
+2023-05-20 02:01:01     self._send_request(method, url, body, headers, encode_chunked)
+2023-05-20 02:01:01   File "/usr/lib/python3.10/http/client.py", line 1328, in _send_request
+2023-05-20 02:01:01     self.endheaders(body, encode_chunked=encode_chunked)
+2023-05-20 02:01:01   File "/usr/lib/python3.10/http/client.py", line 1277, in endheaders
+2023-05-20 02:01:01     self._send_output(message_body, encode_chunked=encode_chunked)
+2023-05-20 02:01:01   File "/usr/lib/python3.10/http/client.py", line 1037, in _send_output
+2023-05-20 02:01:01     self.send(msg)
+2023-05-20 02:01:01   File "/usr/lib/python3.10/http/client.py", line 975, in send
+2023-05-20 02:01:01     self.connect()
+2023-05-20 02:01:01   File "/usr/local/lib/python3.10/dist-packages/urllib3/connection.py", line 205, in connect
+2023-05-20 02:01:01     conn = self._new_conn()
+2023-05-20 02:01:01   File "/usr/local/lib/python3.10/dist-packages/urllib3/connection.py", line 186, in _new_conn
+2023-05-20 02:01:01     raise NewConnectionError(
+2023-05-20 02:01:01 urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x7fb65fef7220>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution
+2023-05-20 02:01:01 
+2023-05-20 02:01:01 During handling of the above exception, another exception occurred:
+2023-05-20 02:01:01 
+2023-05-20 02:01:01 Traceback (most recent call last):
+2023-05-20 02:01:01   File "/usr/local/lib/python3.10/dist-packages/requests/adapters.py", line 489, in send
+2023-05-20 02:01:01     resp = conn.urlopen(
+2023-05-20 02:01:01   File "/usr/local/lib/python3.10/dist-packages/urllib3/connectionpool.py", line 787, in urlopen
+2023-05-20 02:01:01     retries = retries.increment(
+2023-05-20 02:01:01   File "/usr/local/lib/python3.10/dist-packages/urllib3/util/retry.py", line 592, in increment
+2023-05-20 02:01:01     raise MaxRetryError(_pool, url, error or ResponseError(cause))
+2023-05-20 02:01:01 urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='service_author', port=8081): Max retries exceeded with url: /authors/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb65fef7220>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+2023-05-20 02:01:01 
+2023-05-20 02:01:01 During handling of the above exception, another exception occurred:
+2023-05-20 02:01:01 
+2023-05-20 02:01:01 Traceback (most recent call last):
+2023-05-20 02:01:01   File "/./service_main.py", line 74, in get_author
+2023-05-20 02:01:01     response_author = requests.get("http://" + service_author + "/authors/" + str(id))
+2023-05-20 02:01:01   File "/usr/local/lib/python3.10/dist-packages/requests/api.py", line 73, in get
+2023-05-20 02:01:01     return request("get", url, params=params, **kwargs)
+2023-05-20 02:01:01   File "/usr/local/lib/python3.10/dist-packages/requests/api.py", line 59, in request
+2023-05-20 02:01:01     return session.request(method=method, url=url, **kwargs)
+2023-05-20 02:01:01   File "/usr/local/lib/python3.10/dist-packages/requests/sessions.py", line 587, in request
+2023-05-20 02:01:01     resp = self.send(prep, **send_kwargs)
+2023-05-20 02:01:01   File "/usr/local/lib/python3.10/dist-packages/requests/sessions.py", line 701, in send
+2023-05-20 02:01:01     r = adapter.send(request, **kwargs)
+2023-05-20 02:01:01   File "/usr/local/lib/python3.10/dist-packages/requests/adapters.py", line 565, in send
+2023-05-20 02:01:01     raise ConnectionError(e, request=request)
+2023-05-20 02:01:01 requests.exceptions.ConnectionError: HTTPConnectionPool(host='service_author', port=8081): Max retries exceeded with url: /authors/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb65fef7220>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+2023-05-20 02:01:01 
+2023-05-20 02:01:01 During handling of the above exception, another exception occurred:
+2023-05-20 02:01:01 
+2023-05-20 02:01:01 Traceback (most recent call last):
+2023-05-20 02:01:01   File "/usr/lib/python3.10/logging/__init__.py", line 1100, in emit
+2023-05-20 02:01:01     msg = self.format(record)
+2023-05-20 02:01:01   File "/usr/lib/python3.10/logging/__init__.py", line 943, in format
+2023-05-20 02:01:01     return fmt.format(record)
+2023-05-20 02:01:01   File "/usr/lib/python3.10/logging/__init__.py", line 678, in format
+2023-05-20 02:01:01     record.message = record.getMessage()
+2023-05-20 02:01:01   File "/usr/lib/python3.10/logging/__init__.py", line 368, in getMessage
+2023-05-20 02:01:01     msg = msg % self.args
+2023-05-20 02:01:01 TypeError: not all arguments converted during string formatting
+2023-05-20 02:01:01 Call stack:
+2023-05-20 02:01:01   File "<string>", line 1, in <module>
+2023-05-20 02:01:01   File "/usr/lib/python3.10/multiprocessing/spawn.py", line 116, in spawn_main
+2023-05-20 02:01:01     exitcode = _main(fd, parent_sentinel)
+2023-05-20 02:01:01   File "/usr/lib/python3.10/multiprocessing/spawn.py", line 129, in _main
+2023-05-20 02:01:01     return self._bootstrap(parent_sentinel)
+2023-05-20 02:01:01   File "/usr/lib/python3.10/multiprocessing/process.py", line 314, in _bootstrap
+2023-05-20 02:01:01 INFO:     172.19.0.1:40030 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 500 Internal Server Error
+2023-05-20 02:01:01     self.run()
+2023-05-20 02:01:01   File "/usr/lib/python3.10/multiprocessing/process.py", line 108, in run
+2023-05-20 02:01:01     self._target(*self._args, **self._kwargs)
+2023-05-20 02:01:01   File "/usr/local/lib/python3.10/dist-packages/uvicorn/_subprocess.py", line 76, in subprocess_started
+2023-05-20 02:01:01     target(sockets=sockets)
+2023-05-20 02:01:01   File "/usr/local/lib/python3.10/dist-packages/uvicorn/server.py", line 60, in run
+2023-05-20 02:01:01     return asyncio.run(self.serve(sockets=sockets))
+2023-05-20 02:01:01   File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+2023-05-20 02:01:01     return loop.run_until_complete(main)
+2023-05-20 02:01:01   File "/usr/lib/python3.10/asyncio/base_events.py", line 633, in run_until_complete
+2023-05-20 02:01:01     self.run_forever()
+2023-05-20 02:01:01   File "/usr/lib/python3.10/asyncio/base_events.py", line 600, in run_forever
+2023-05-20 02:01:01     self._run_once()
+2023-05-20 02:01:01   File "/usr/lib/python3.10/asyncio/base_events.py", line 1896, in _run_once
+2023-05-20 02:01:01     handle._run()
+2023-05-20 02:01:01   File "/usr/lib/python3.10/asyncio/events.py", line 80, in _run
+2023-05-20 02:01:01     self._context.run(self._callback, *self._args)
+2023-05-20 02:01:01   File "/usr/local/lib/python3.10/dist-packages/uvicorn/protocols/http/httptools_impl.py", line 419, in run_asgi
+2023-05-20 02:01:01     result = await app(  # type: ignore[func-returns-value]
+2023-05-20 02:01:01   File "/usr/local/lib/python3.10/dist-packages/uvicorn/middleware/proxy_headers.py", line 78, in __call__
+2023-05-20 02:01:01     return await self.app(scope, receive, send)
+2023-05-20 02:01:01   File "/usr/local/lib/python3.10/dist-packages/fastapi/applications.py", line 271, in __call__
+2023-05-20 02:01:01     await super().__call__(scope, receive, send)
+2023-05-20 02:01:01   File "/usr/local/lib/python3.10/dist-packages/starlette/applications.py", line 118, in __call__
+2023-05-20 02:01:01     await self.middleware_stack(scope, receive, send)
+2023-05-20 02:01:01   File "/usr/local/lib/python3.10/dist-packages/starlette/middleware/errors.py", line 162, in __call__
+2023-05-20 02:01:01     await self.app(scope, receive, _send)
+2023-05-20 02:01:01   File "/usr/local/lib/python3.10/dist-packages/starlette/middleware/exceptions.py", line 68, in __call__
+2023-05-20 02:01:01     await self.app(scope, receive, sender)
+2023-05-20 02:01:01   File "/usr/local/lib/python3.10/dist-packages/fastapi/middleware/asyncexitstack.py", line 18, in __call__
+2023-05-20 02:01:01     await self.app(scope, receive, send)
+2023-05-20 02:01:01   File "/usr/local/lib/python3.10/dist-packages/starlette/routing.py", line 706, in __call__
+2023-05-20 02:01:01     await route.handle(scope, receive, send)
+2023-05-20 02:01:01   File "/usr/local/lib/python3.10/dist-packages/starlette/routing.py", line 276, in handle
+2023-05-20 02:01:01     await self.app(scope, receive, send)
+2023-05-20 02:01:01   File "/usr/local/lib/python3.10/dist-packages/starlette/routing.py", line 66, in app
+2023-05-20 02:01:01     response = await func(request)
+2023-05-20 02:01:01   File "/usr/local/lib/python3.10/dist-packages/fastapi/routing.py", line 237, in app
+2023-05-20 02:01:01     raw_response = await run_endpoint_function(
+2023-05-20 02:01:01   File "/usr/local/lib/python3.10/dist-packages/fastapi/routing.py", line 163, in run_endpoint_function
+2023-05-20 02:01:01     return await dependant.call(**values)
+2023-05-20 02:01:01   File "/./service_main.py", line 105, in read_presentation
+2023-05-20 02:01:01     author = get_author(presentation.author_id)
+2023-05-20 02:01:01   File "/./circuitbreaker.py", line 159, in wrapper
+2023-05-20 02:01:01     return call(function, *args, **kwargs)
+2023-05-20 02:01:01   File "/./circuitbreaker.py", line 170, in call
+2023-05-20 02:01:01     return func(*args, **kwargs)
+2023-05-20 02:01:01   File "/./service_main.py", line 76, in get_author
+2023-05-20 02:01:01     logging.warning(">>> Error Connecting:", errc)
+2023-05-20 02:01:01 Message: '>>> Error Connecting:'
+2023-05-20 02:01:01 Arguments: (ConnectionError(MaxRetryError("HTTPConnectionPool(host='service_author', port=8081): Max retries exceeded with url: /authors/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb65fef7220>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))")),)
+2023-05-20 02:01:01 WARNING:root:Circuit "get_author" is "closed", failures: 1
+2023-05-20 02:01:01 WARNING:root:
+2023-05-20 02:01:03 WARNING:root:Circuit "get_author" is "closed", failures: 1
+2023-05-20 02:01:03 WARNING:root:
+2023-05-20 02:01:04 WARNING:root:Circuit "get_author" is "closed", failures: 1
+2023-05-20 02:01:04 WARNING:root:
+2023-05-20 02:01:05 WARNING:root:Circuit "get_author" is "closed", failures: 1
+2023-05-20 02:01:05 WARNING:root:
+2023-05-20 02:01:06 WARNING:root:Circuit "get_author" is "closed", failures: 1
+2023-05-20 02:01:06 WARNING:root:
+2023-05-20 02:01:07 WARNING:root:Circuit "get_author" is "closed", failures: 1
+2023-05-20 02:01:07 WARNING:root:
+2023-05-20 02:01:08 WARNING:root:Circuit "get_author" is "closed", failures: 1
+2023-05-20 02:01:08 WARNING:root:
+2023-05-20 02:01:09 WARNING:root:Circuit "get_author" is "closed", failures: 1
+2023-05-20 02:01:09 WARNING:root:
+2023-05-20 02:01:10 WARNING:root:Circuit "get_author" is "closed", failures: 1
+2023-05-20 02:01:10 WARNING:root:
+2023-05-20 02:01:11 WARNING:root:Circuit "get_author" is "closed", failures: 1
+2023-05-20 02:01:11 WARNING:root:
+2023-05-20 02:01:12 WARNING:root:Circuit "get_author" is "closed", failures: 1
+2023-05-20 02:01:12 WARNING:root:
+2023-05-20 02:01:13 WARNING:root:Circuit "get_author" is "closed", failures: 1
+2023-05-20 02:01:13 WARNING:root:
+2023-05-20 02:01:14 --- Logging error ---
+2023-05-20 02:01:14 Traceback (most recent call last):
+2023-05-20 02:01:14   File "/usr/local/lib/python3.10/dist-packages/urllib3/connection.py", line 174, in _new_conn
+2023-05-20 02:01:14     conn = connection.create_connection(
+2023-05-20 02:01:14   File "/usr/local/lib/python3.10/dist-packages/urllib3/util/connection.py", line 72, in create_connection
+2023-05-20 02:01:14     for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+2023-05-20 02:01:14   File "/usr/lib/python3.10/socket.py", line 955, in getaddrinfo
+2023-05-20 02:01:14     for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+2023-05-20 02:01:14 socket.gaierror: [Errno -3] Temporary failure in name resolution
+2023-05-20 02:01:14 
+2023-05-20 02:01:14 During handling of the above exception, another exception occurred:
+2023-05-20 02:01:14 
+2023-05-20 02:01:14 Traceback (most recent call last):
+2023-05-20 02:01:14   File "/usr/local/lib/python3.10/dist-packages/urllib3/connectionpool.py", line 703, in urlopen
+2023-05-20 02:01:14     httplib_response = self._make_request(
+2023-05-20 02:01:14   File "/usr/local/lib/python3.10/dist-packages/urllib3/connectionpool.py", line 398, in _make_request
+2023-05-20 02:01:14     conn.request(method, url, **httplib_request_kw)
+2023-05-20 02:01:14   File "/usr/local/lib/python3.10/dist-packages/urllib3/connection.py", line 239, in request
+2023-05-20 02:01:14     super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+2023-05-20 02:01:14   File "/usr/lib/python3.10/http/client.py", line 1282, in request
+2023-05-20 02:01:14     self._send_request(method, url, body, headers, encode_chunked)
+2023-05-20 02:01:14   File "/usr/lib/python3.10/http/client.py", line 1328, in _send_request
+2023-05-20 02:01:14     self.endheaders(body, encode_chunked=encode_chunked)
+2023-05-20 02:01:14   File "/usr/lib/python3.10/http/client.py", line 1277, in endheaders
+2023-05-20 02:01:14     self._send_output(message_body, encode_chunked=encode_chunked)
+2023-05-20 02:01:14   File "/usr/lib/python3.10/http/client.py", line 1037, in _send_output
+2023-05-20 02:01:14     self.send(msg)
+2023-05-20 02:01:14   File "/usr/lib/python3.10/http/client.py", line 975, in send
+2023-05-20 02:01:14     self.connect()
+2023-05-20 02:01:14   File "/usr/local/lib/python3.10/dist-packages/urllib3/connection.py", line 205, in connect
+2023-05-20 02:01:14     conn = self._new_conn()
+2023-05-20 02:01:14   File "/usr/local/lib/python3.10/dist-packages/urllib3/connection.py", line 186, in _new_conn
+2023-05-20 02:01:14     raise NewConnectionError(
+2023-05-20 02:01:14 urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x7fb65f3fc880>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution
+2023-05-20 02:01:14 
+2023-05-20 02:01:14 During handling of the above exception, another exception occurred:
+2023-05-20 02:01:14 
+2023-05-20 02:01:14 Traceback (most recent call last):
+2023-05-20 02:01:14   File "/usr/local/lib/python3.10/dist-packages/requests/adapters.py", line 489, in send
+2023-05-20 02:01:14     resp = conn.urlopen(
+2023-05-20 02:01:14   File "/usr/local/lib/python3.10/dist-packages/urllib3/connectionpool.py", line 787, in urlopen
+2023-05-20 02:01:14     retries = retries.increment(
+2023-05-20 02:01:14   File "/usr/local/lib/python3.10/dist-packages/urllib3/util/retry.py", line 592, in increment
+2023-05-20 02:01:14     raise MaxRetryError(_pool, url, error or ResponseError(cause))
+2023-05-20 02:01:14 urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='service_author', port=8081): Max retries exceeded with url: /authors/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb65f3fc880>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+2023-05-20 02:01:14 
+2023-05-20 02:01:14 During handling of the above exception, another exception occurred:
+2023-05-20 02:01:14 
+2023-05-20 02:01:14 Traceback (most recent call last):
+2023-05-20 02:01:14   File "/./service_main.py", line 74, in get_author
+2023-05-20 02:01:14     response_author = requests.get("http://" + service_author + "/authors/" + str(id))
+2023-05-20 02:01:14   File "/usr/local/lib/python3.10/dist-packages/requests/api.py", line 73, in get
+2023-05-20 02:01:14     return request("get", url, params=params, **kwargs)
+2023-05-20 02:01:14   File "/usr/local/lib/python3.10/dist-packages/requests/api.py", line 59, in request
+2023-05-20 02:01:14     return session.request(method=method, url=url, **kwargs)
+2023-05-20 02:01:14   File "/usr/local/lib/python3.10/dist-packages/requests/sessions.py", line 587, in request
+2023-05-20 02:01:14     resp = self.send(prep, **send_kwargs)
+2023-05-20 02:01:14   File "/usr/local/lib/python3.10/dist-packages/requests/sessions.py", line 701, in send
+2023-05-20 02:01:14     r = adapter.send(request, **kwargs)
+2023-05-20 02:01:14   File "/usr/local/lib/python3.10/dist-packages/requests/adapters.py", line 565, in send
+2023-05-20 02:01:14     raise ConnectionError(e, request=request)
+2023-05-20 02:01:14 requests.exceptions.ConnectionError: HTTPConnectionPool(host='service_author', port=8081): Max retries exceeded with url: /authors/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb65f3fc880>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+2023-05-20 02:01:14 
+2023-05-20 02:01:14 During handling of the above exception, another exception occurred:
+2023-05-20 02:01:14 
+2023-05-20 02:01:14 Traceback (most recent call last):
+2023-05-20 02:01:14   File "/usr/lib/python3.10/logging/__init__.py", line 1100, in emit
+2023-05-20 02:01:14     msg = self.format(record)
+2023-05-20 02:01:14   File "/usr/lib/python3.10/logging/__init__.py", line 943, in format
+2023-05-20 02:01:14     return fmt.format(record)
+2023-05-20 02:01:14   File "/usr/lib/python3.10/logging/__init__.py", line 678, in format
+2023-05-20 02:01:14     record.message = record.getMessage()
+2023-05-20 02:01:14   File "/usr/lib/python3.10/logging/__init__.py", line 368, in getMessage
+2023-05-20 02:01:14     msg = msg % self.args
+2023-05-20 02:01:14 TypeError: not all arguments converted during string formatting
+2023-05-20 02:01:14 Call stack:
+2023-05-20 02:01:14   File "<string>", line 1, in <module>
+2023-05-20 02:01:14   File "/usr/lib/python3.10/multiprocessing/spawn.py", line 116, in spawn_main
+2023-05-20 02:01:14     exitcode = _main(fd, parent_sentinel)
+2023-05-20 02:01:14   File "/usr/lib/python3.10/multiprocessing/spawn.py", line 129, in _main
+2023-05-20 02:01:14     return self._bootstrap(parent_sentinel)
+2023-05-20 02:01:14   File "/usr/lib/python3.10/multiprocessing/process.py", line 314, in _bootstrap
+2023-05-20 02:01:14     self.run()
+2023-05-20 02:01:14   File "/usr/lib/python3.10/multiprocessing/process.py", line 108, in run
+2023-05-20 02:01:14     self._target(*self._args, **self._kwargs)
+2023-05-20 02:01:14   File "/usr/local/lib/python3.10/dist-packages/uvicorn/_subprocess.py", line 76, in subprocess_started
+2023-05-20 02:01:14     target(sockets=sockets)
+2023-05-20 02:01:14   File "/usr/local/lib/python3.10/dist-packages/uvicorn/server.py", line 60, in run
+2023-05-20 02:01:14     return asyncio.run(self.serve(sockets=sockets))
+2023-05-20 02:01:14   File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+2023-05-20 02:01:14     return loop.run_until_complete(main)
+2023-05-20 02:01:14   File "/usr/lib/python3.10/asyncio/base_events.py", line 633, in run_until_complete
+2023-05-20 02:01:14     self.run_forever()
+2023-05-20 02:01:14   File "/usr/lib/python3.10/asyncio/base_events.py", line 600, in run_forever
+2023-05-20 02:01:14     self._run_once()
+2023-05-20 02:01:14   File "/usr/lib/python3.10/asyncio/base_events.py", line 1896, in _run_once
+2023-05-20 02:01:14     handle._run()
+2023-05-20 02:01:14   File "/usr/lib/python3.10/asyncio/events.py", line 80, in _run
+2023-05-20 02:01:14     self._context.run(self._callback, *self._args)
+2023-05-20 02:01:14   File "/usr/local/lib/python3.10/dist-packages/uvicorn/protocols/http/httptools_impl.py", line 419, in run_asgi
+2023-05-20 02:01:14     result = await app(  # type: ignore[func-returns-value]
+2023-05-20 02:01:14   File "/usr/local/lib/python3.10/dist-packages/uvicorn/middleware/proxy_headers.py", line 78, in __call__
+2023-05-20 02:01:14     return await self.app(scope, receive, send)
+2023-05-20 02:01:14   File "/usr/local/lib/python3.10/dist-packages/fastapi/applications.py", line 271, in __call__
+2023-05-20 02:01:14     await super().__call__(scope, receive, send)
+2023-05-20 02:01:14   File "/usr/local/lib/python3.10/dist-packages/starlette/applications.py", line 118, in __call__
+2023-05-20 02:01:14     await self.middleware_stack(scope, receive, send)
+2023-05-20 02:01:14   File "/usr/local/lib/python3.10/dist-packages/starlette/middleware/errors.py", line 162, in __call__
+2023-05-20 02:01:14     await self.app(scope, receive, _send)
+2023-05-20 02:01:14   File "/usr/local/lib/python3.10/dist-packages/starlette/middleware/exceptions.py", line 68, in __call__
+2023-05-20 02:01:14     await self.app(scope, receive, sender)
+2023-05-20 02:01:14   File "/usr/local/lib/python3.10/dist-packages/fastapi/middleware/asyncexitstack.py", line 18, in __call__
+2023-05-20 02:01:14     await self.app(scope, receive, send)
+2023-05-20 02:01:14   File "/usr/local/lib/python3.10/dist-packages/starlette/routing.py", line 706, in __call__
+2023-05-20 02:01:14     await route.handle(scope, receive, send)
+2023-05-20 02:01:14   File "/usr/local/lib/python3.10/dist-packages/starlette/routing.py", line 276, in handle
+2023-05-20 02:01:14     await self.app(scope, receive, send)
+2023-05-20 02:01:14   File "/usr/local/lib/python3.10/dist-packages/starlette/routing.py", line 66, in app
+2023-05-20 02:01:14     response = await func(request)
+2023-05-20 02:01:14   File "/usr/local/lib/python3.10/dist-packages/fastapi/routing.py", line 237, in app
+2023-05-20 02:01:14     raw_response = await run_endpoint_function(
+2023-05-20 02:01:14   File "/usr/local/lib/python3.10/dist-packages/fastapi/routing.py", line 163, in run_endpoint_function
+2023-05-20 02:01:14     return await dependant.call(**values)
+2023-05-20 02:01:14   File "/./service_main.py", line 105, in read_presentation
+2023-05-20 02:01:14     author = get_author(presentation.author_id)
+2023-05-20 02:01:14   File "/./circuitbreaker.py", line 159, in wrapper
+2023-05-20 02:01:14     return call(function, *args, **kwargs)
+2023-05-20 02:01:14   File "/./circuitbreaker.py", line 170, in call
+2023-05-20 02:01:14     return func(*args, **kwargs)
+2023-05-20 02:01:14   File "/./service_main.py", line 76, in get_author
+2023-05-20 02:01:14     logging.warning(">>> Error Connecting:", errc)
+2023-05-20 02:01:14 Message: '>>> Error Connecting:'
+2023-05-20 02:01:14 Arguments: (ConnectionError(MaxRetryError("HTTPConnectionPool(host='service_author', port=8081): Max retries exceeded with url: /authors/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb65f3fc880>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))")),)
+2023-05-20 02:01:14 WARNING:root:Circuit "get_author" is "closed", failures: 2
+2023-05-20 02:01:14 WARNING:root:
+2023-05-20 02:01:15 WARNING:root:Circuit "get_author" is "closed", failures: 2
+2023-05-20 02:01:15 WARNING:root:
+2023-05-20 02:01:16 WARNING:root:Circuit "get_author" is "closed", failures: 2
+2023-05-20 02:01:16 WARNING:root:
+2023-05-20 02:01:17 WARNING:root:Circuit "get_author" is "closed", failures: 2
+2023-05-20 02:01:14 INFO:     172.19.0.1:40034 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 500 Internal Server Error
+2023-05-20 02:01:17 WARNING:root:
+2023-05-20 02:01:18 WARNING:root:Circuit "get_author" is "closed", failures: 2
+2023-05-20 02:01:18 WARNING:root:
+2023-05-20 02:01:19 WARNING:root:Circuit "get_author" is "closed", failures: 2
+2023-05-20 02:01:19 WARNING:root:
+2023-05-20 02:01:20 WARNING:root:Circuit "get_author" is "closed", failures: 2
+2023-05-20 02:01:20 WARNING:root:
+2023-05-20 02:01:21 WARNING:root:Circuit "get_author" is "closed", failures: 2
+2023-05-20 02:01:21 WARNING:root:
+2023-05-20 02:01:22 WARNING:root:Circuit "get_author" is "closed", failures: 2
+2023-05-20 02:01:22 WARNING:root:
+2023-05-20 02:01:23 WARNING:root:Circuit "get_author" is "closed", failures: 2
+2023-05-20 02:01:23 WARNING:root:
+2023-05-20 02:01:24 WARNING:root:Circuit "get_author" is "closed", failures: 2
+2023-05-20 02:01:24 WARNING:root:
+2023-05-20 02:01:25 WARNING:root:Circuit "get_author" is "closed", failures: 2
+2023-05-20 02:01:25 WARNING:root:
+2023-05-20 02:01:25 --- Logging error ---
+2023-05-20 02:01:25 Traceback (most recent call last):
+2023-05-20 02:01:25   File "/usr/local/lib/python3.10/dist-packages/urllib3/connection.py", line 174, in _new_conn
+2023-05-20 02:01:25     conn = connection.create_connection(
+2023-05-20 02:01:25   File "/usr/local/lib/python3.10/dist-packages/urllib3/util/connection.py", line 72, in create_connection
+2023-05-20 02:01:25     for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+2023-05-20 02:01:25   File "/usr/lib/python3.10/socket.py", line 955, in getaddrinfo
+2023-05-20 02:01:25     for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+2023-05-20 02:01:25 socket.gaierror: [Errno -3] Temporary failure in name resolution
+2023-05-20 02:01:25 
+2023-05-20 02:01:25 During handling of the above exception, another exception occurred:
+2023-05-20 02:01:25 
+2023-05-20 02:01:25 Traceback (most recent call last):
+2023-05-20 02:01:25   File "/usr/local/lib/python3.10/dist-packages/urllib3/connectionpool.py", line 703, in urlopen
+2023-05-20 02:01:25     httplib_response = self._make_request(
+2023-05-20 02:01:25   File "/usr/local/lib/python3.10/dist-packages/urllib3/connectionpool.py", line 398, in _make_request
+2023-05-20 02:01:25     conn.request(method, url, **httplib_request_kw)
+2023-05-20 02:01:25   File "/usr/local/lib/python3.10/dist-packages/urllib3/connection.py", line 239, in request
+2023-05-20 02:01:25     super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+2023-05-20 02:01:25   File "/usr/lib/python3.10/http/client.py", line 1282, in request
+2023-05-20 02:01:25     self._send_request(method, url, body, headers, encode_chunked)
+2023-05-20 02:01:25   File "/usr/lib/python3.10/http/client.py", line 1328, in _send_request
+2023-05-20 02:01:25     self.endheaders(body, encode_chunked=encode_chunked)
+2023-05-20 02:01:25   File "/usr/lib/python3.10/http/client.py", line 1277, in endheaders
+2023-05-20 02:01:25     self._send_output(message_body, encode_chunked=encode_chunked)
+2023-05-20 02:01:25   File "/usr/lib/python3.10/http/client.py", line 1037, in _send_output
+2023-05-20 02:01:25     self.send(msg)
+2023-05-20 02:01:25   File "/usr/lib/python3.10/http/client.py", line 975, in send
+2023-05-20 02:01:25     self.connect()
+2023-05-20 02:01:25   File "/usr/local/lib/python3.10/dist-packages/urllib3/connection.py", line 205, in connect
+2023-05-20 02:01:25     conn = self._new_conn()
+2023-05-20 02:01:25   File "/usr/local/lib/python3.10/dist-packages/urllib3/connection.py", line 186, in _new_conn
+2023-05-20 02:01:25     raise NewConnectionError(
+2023-05-20 02:01:25 urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x7fb65f3fd870>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution
+2023-05-20 02:01:25 
+2023-05-20 02:01:25 During handling of the above exception, another exception occurred:
+2023-05-20 02:01:25 
+2023-05-20 02:01:25 Traceback (most recent call last):
+2023-05-20 02:01:25   File "/usr/local/lib/python3.10/dist-packages/requests/adapters.py", line 489, in send
+2023-05-20 02:01:25     resp = conn.urlopen(
+2023-05-20 02:01:25   File "/usr/local/lib/python3.10/dist-packages/urllib3/connectionpool.py", line 787, in urlopen
+2023-05-20 02:01:25     retries = retries.increment(
+2023-05-20 02:01:25   File "/usr/local/lib/python3.10/dist-packages/urllib3/util/retry.py", line 592, in increment
+2023-05-20 02:01:25     raise MaxRetryError(_pool, url, error or ResponseError(cause))
+2023-05-20 02:01:25 urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='service_author', port=8081): Max retries exceeded with url: /authors/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb65f3fd870>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+2023-05-20 02:01:25 
+2023-05-20 02:01:25 During handling of the above exception, another exception occurred:
+2023-05-20 02:01:25 
+2023-05-20 02:01:25 Traceback (most recent call last):
+2023-05-20 02:01:25   File "/./service_main.py", line 74, in get_author
+2023-05-20 02:01:25     response_author = requests.get("http://" + service_author + "/authors/" + str(id))
+2023-05-20 02:01:25   File "/usr/local/lib/python3.10/dist-packages/requests/api.py", line 73, in get
+2023-05-20 02:01:25     return request("get", url, params=params, **kwargs)
+2023-05-20 02:01:25   File "/usr/local/lib/python3.10/dist-packages/requests/api.py", line 59, in request
+2023-05-20 02:01:25     return session.request(method=method, url=url, **kwargs)
+2023-05-20 02:01:25   File "/usr/local/lib/python3.10/dist-packages/requests/sessions.py", line 587, in request
+2023-05-20 02:01:25     resp = self.send(prep, **send_kwargs)
+2023-05-20 02:01:25   File "/usr/local/lib/python3.10/dist-packages/requests/sessions.py", line 701, in send
+2023-05-20 02:01:25     r = adapter.send(request, **kwargs)
+2023-05-20 02:01:25   File "/usr/local/lib/python3.10/dist-packages/requests/adapters.py", line 565, in send
+2023-05-20 02:01:25     raise ConnectionError(e, request=request)
+2023-05-20 02:01:25 requests.exceptions.ConnectionError: HTTPConnectionPool(host='service_author', port=8081): Max retries exceeded with url: /authors/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb65f3fd870>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+2023-05-20 02:01:25 
+2023-05-20 02:01:25 During handling of the above exception, another exception occurred:
+2023-05-20 02:01:25 
+2023-05-20 02:01:25 Traceback (most recent call last):
+2023-05-20 02:01:25   File "/usr/lib/python3.10/logging/__init__.py", line 1100, in emit
+2023-05-20 02:01:25     msg = self.format(record)
+2023-05-20 02:01:25   File "/usr/lib/python3.10/logging/__init__.py", line 943, in format
+2023-05-20 02:01:25     return fmt.format(record)
+2023-05-20 02:01:25 INFO:     172.19.0.1:40038 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 500 Internal Server Error
+2023-05-20 02:01:25   File "/usr/lib/python3.10/logging/__init__.py", line 678, in format
+2023-05-20 02:01:25     record.message = record.getMessage()
+2023-05-20 02:01:25   File "/usr/lib/python3.10/logging/__init__.py", line 368, in getMessage
+2023-05-20 02:01:25     msg = msg % self.args
+2023-05-20 02:01:25 TypeError: not all arguments converted during string formatting
+2023-05-20 02:01:25 Call stack:
+2023-05-20 02:01:25   File "<string>", line 1, in <module>
+2023-05-20 02:01:25   File "/usr/lib/python3.10/multiprocessing/spawn.py", line 116, in spawn_main
+2023-05-20 02:01:25     exitcode = _main(fd, parent_sentinel)
+2023-05-20 02:01:25   File "/usr/lib/python3.10/multiprocessing/spawn.py", line 129, in _main
+2023-05-20 02:01:25     return self._bootstrap(parent_sentinel)
+2023-05-20 02:01:25   File "/usr/lib/python3.10/multiprocessing/process.py", line 314, in _bootstrap
+2023-05-20 02:01:25     self.run()
+2023-05-20 02:01:25   File "/usr/lib/python3.10/multiprocessing/process.py", line 108, in run
+2023-05-20 02:01:25     self._target(*self._args, **self._kwargs)
+2023-05-20 02:01:25   File "/usr/local/lib/python3.10/dist-packages/uvicorn/_subprocess.py", line 76, in subprocess_started
+2023-05-20 02:01:25     target(sockets=sockets)
+2023-05-20 02:01:25   File "/usr/local/lib/python3.10/dist-packages/uvicorn/server.py", line 60, in run
+2023-05-20 02:01:25     return asyncio.run(self.serve(sockets=sockets))
+2023-05-20 02:01:25   File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+2023-05-20 02:01:25     return loop.run_until_complete(main)
+2023-05-20 02:01:25   File "/usr/lib/python3.10/asyncio/base_events.py", line 633, in run_until_complete
+2023-05-20 02:01:25     self.run_forever()
+2023-05-20 02:01:25   File "/usr/lib/python3.10/asyncio/base_events.py", line 600, in run_forever
+2023-05-20 02:01:25     self._run_once()
+2023-05-20 02:01:25   File "/usr/lib/python3.10/asyncio/base_events.py", line 1896, in _run_once
+2023-05-20 02:01:25     handle._run()
+2023-05-20 02:01:25   File "/usr/lib/python3.10/asyncio/events.py", line 80, in _run
+2023-05-20 02:01:25     self._context.run(self._callback, *self._args)
+2023-05-20 02:01:25   File "/usr/local/lib/python3.10/dist-packages/uvicorn/protocols/http/httptools_impl.py", line 419, in run_asgi
+2023-05-20 02:01:25     result = await app(  # type: ignore[func-returns-value]
+2023-05-20 02:01:25   File "/usr/local/lib/python3.10/dist-packages/uvicorn/middleware/proxy_headers.py", line 78, in __call__
+2023-05-20 02:01:25     return await self.app(scope, receive, send)
+2023-05-20 02:01:25   File "/usr/local/lib/python3.10/dist-packages/fastapi/applications.py", line 271, in __call__
+2023-05-20 02:01:25     await super().__call__(scope, receive, send)
+2023-05-20 02:01:25   File "/usr/local/lib/python3.10/dist-packages/starlette/applications.py", line 118, in __call__
+2023-05-20 02:01:25     await self.middleware_stack(scope, receive, send)
+2023-05-20 02:01:25   File "/usr/local/lib/python3.10/dist-packages/starlette/middleware/errors.py", line 162, in __call__
+2023-05-20 02:01:25     await self.app(scope, receive, _send)
+2023-05-20 02:01:25   File "/usr/local/lib/python3.10/dist-packages/starlette/middleware/exceptions.py", line 68, in __call__
+2023-05-20 02:01:25     await self.app(scope, receive, sender)
+2023-05-20 02:01:25   File "/usr/local/lib/python3.10/dist-packages/fastapi/middleware/asyncexitstack.py", line 18, in __call__
+2023-05-20 02:01:25     await self.app(scope, receive, send)
+2023-05-20 02:01:25   File "/usr/local/lib/python3.10/dist-packages/starlette/routing.py", line 706, in __call__
+2023-05-20 02:01:25     await route.handle(scope, receive, send)
+2023-05-20 02:01:25   File "/usr/local/lib/python3.10/dist-packages/starlette/routing.py", line 276, in handle
+2023-05-20 02:01:25     await self.app(scope, receive, send)
+2023-05-20 02:01:25   File "/usr/local/lib/python3.10/dist-packages/starlette/routing.py", line 66, in app
+2023-05-20 02:01:25     response = await func(request)
+2023-05-20 02:01:25   File "/usr/local/lib/python3.10/dist-packages/fastapi/routing.py", line 237, in app
+2023-05-20 02:01:25     raw_response = await run_endpoint_function(
+2023-05-20 02:01:25   File "/usr/local/lib/python3.10/dist-packages/fastapi/routing.py", line 163, in run_endpoint_function
+2023-05-20 02:01:25     return await dependant.call(**values)
+2023-05-20 02:01:25   File "/./service_main.py", line 105, in read_presentation
+2023-05-20 02:01:25     author = get_author(presentation.author_id)
+2023-05-20 02:01:25   File "/./circuitbreaker.py", line 159, in wrapper
+2023-05-20 02:01:25     return call(function, *args, **kwargs)
+2023-05-20 02:01:25   File "/./circuitbreaker.py", line 170, in call
+2023-05-20 02:01:25     return func(*args, **kwargs)
+2023-05-20 02:01:25   File "/./service_main.py", line 76, in get_author
+2023-05-20 02:01:25     logging.warning(">>> Error Connecting:", errc)
+2023-05-20 02:01:25 Message: '>>> Error Connecting:'
+2023-05-20 02:01:25 Arguments: (ConnectionError(MaxRetryError("HTTPConnectionPool(host='service_author', port=8081): Max retries exceeded with url: /authors/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb65f3fd870>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))")),)
+2023-05-20 02:01:26 WARNING:root:Circuit "get_author" is "closed", failures: 3
+2023-05-20 02:01:26 WARNING:root:
+2023-05-20 02:01:27 WARNING:root:Circuit "get_author" is "closed", failures: 3
+2023-05-20 02:01:27 WARNING:root:
+2023-05-20 02:01:28 WARNING:root:Circuit "get_author" is "closed", failures: 3
+2023-05-20 02:01:28 WARNING:root:
+2023-05-20 02:01:29 WARNING:root:Circuit "get_author" is "closed", failures: 3
+2023-05-20 02:01:29 WARNING:root:
+2023-05-20 02:01:30 WARNING:root:Circuit "get_author" is "closed", failures: 3
+2023-05-20 02:01:30 WARNING:root:
+2023-05-20 02:01:31 WARNING:root:Circuit "get_author" is "closed", failures: 3
+2023-05-20 02:01:31 WARNING:root:
+2023-05-20 02:01:32 WARNING:root:Circuit "get_author" is "closed", failures: 3
+2023-05-20 02:01:32 WARNING:root:
+2023-05-20 02:01:33 WARNING:root:Circuit "get_author" is "closed", failures: 3
+2023-05-20 02:01:33 WARNING:root:
+2023-05-20 02:01:34 WARNING:root:Circuit "get_author" is "closed", failures: 3
+2023-05-20 02:01:34 WARNING:root:
+2023-05-20 02:01:35 WARNING:root:Circuit "get_author" is "closed", failures: 3
+2023-05-20 02:01:35 WARNING:root:
+2023-05-20 02:01:36 WARNING:root:Circuit "get_author" is "closed", failures: 3
+2023-05-20 02:01:36 WARNING:root:
+2023-05-20 02:01:36 --- Logging error ---
+2023-05-20 02:01:36 Traceback (most recent call last):
+2023-05-20 02:01:36   File "/usr/local/lib/python3.10/dist-packages/urllib3/connection.py", line 174, in _new_conn
+2023-05-20 02:01:36     conn = connection.create_connection(
+2023-05-20 02:01:36   File "/usr/local/lib/python3.10/dist-packages/urllib3/util/connection.py", line 72, in create_connection
+2023-05-20 02:01:36     for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+2023-05-20 02:01:36   File "/usr/lib/python3.10/socket.py", line 955, in getaddrinfo
+2023-05-20 02:01:36     for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+2023-05-20 02:01:36 socket.gaierror: [Errno -3] Temporary failure in name resolution
+2023-05-20 02:01:36 
+2023-05-20 02:01:36 During handling of the above exception, another exception occurred:
+2023-05-20 02:01:36 
+2023-05-20 02:01:36 Traceback (most recent call last):
+2023-05-20 02:01:36   File "/usr/local/lib/python3.10/dist-packages/urllib3/connectionpool.py", line 703, in urlopen
+2023-05-20 02:01:36     httplib_response = self._make_request(
+2023-05-20 02:01:36   File "/usr/local/lib/python3.10/dist-packages/urllib3/connectionpool.py", line 398, in _make_request
+2023-05-20 02:01:36     conn.request(method, url, **httplib_request_kw)
+2023-05-20 02:01:36   File "/usr/local/lib/python3.10/dist-packages/urllib3/connection.py", line 239, in request
+2023-05-20 02:01:36     super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+2023-05-20 02:01:36   File "/usr/lib/python3.10/http/client.py", line 1282, in request
+2023-05-20 02:01:36     self._send_request(method, url, body, headers, encode_chunked)
+2023-05-20 02:01:36   File "/usr/lib/python3.10/http/client.py", line 1328, in _send_request
+2023-05-20 02:01:36     self.endheaders(body, encode_chunked=encode_chunked)
+2023-05-20 02:01:36   File "/usr/lib/python3.10/http/client.py", line 1277, in endheaders
+2023-05-20 02:01:36     self._send_output(message_body, encode_chunked=encode_chunked)
+2023-05-20 02:01:36   File "/usr/lib/python3.10/http/client.py", line 1037, in _send_output
+2023-05-20 02:01:36     self.send(msg)
+2023-05-20 02:01:36   File "/usr/lib/python3.10/http/client.py", line 975, in send
+2023-05-20 02:01:36     self.connect()
+2023-05-20 02:01:36   File "/usr/local/lib/python3.10/dist-packages/urllib3/connection.py", line 205, in connect
+2023-05-20 02:01:36     conn = self._new_conn()
+2023-05-20 02:01:36   File "/usr/local/lib/python3.10/dist-packages/urllib3/connection.py", line 186, in _new_conn
+2023-05-20 02:01:36     raise NewConnectionError(
+2023-05-20 02:01:36 urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x7fb65f3fe740>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution
+2023-05-20 02:01:36 
+2023-05-20 02:01:36 During handling of the above exception, another exception occurred:
+2023-05-20 02:01:36 
+2023-05-20 02:01:36 Traceback (most recent call last):
+2023-05-20 02:01:36   File "/usr/local/lib/python3.10/dist-packages/requests/adapters.py", line 489, in send
+2023-05-20 02:01:36     resp = conn.urlopen(
+2023-05-20 02:01:36   File "/usr/local/lib/python3.10/dist-packages/urllib3/connectionpool.py", line 787, in urlopen
+2023-05-20 02:01:36     retries = retries.increment(
+2023-05-20 02:01:36   File "/usr/local/lib/python3.10/dist-packages/urllib3/util/retry.py", line 592, in increment
+2023-05-20 02:01:36     raise MaxRetryError(_pool, url, error or ResponseError(cause))
+2023-05-20 02:01:36 urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='service_author', port=8081): Max retries exceeded with url: /authors/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb65f3fe740>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+2023-05-20 02:01:36 
+2023-05-20 02:01:36 During handling of the above exception, another exception occurred:
+2023-05-20 02:01:36 
+2023-05-20 02:01:36 INFO:     172.19.0.1:40042 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 500 Internal Server Error
+2023-05-20 02:01:48 INFO:     172.19.0.1:40046 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 500 Internal Server Error
+2023-05-20 02:01:36 Traceback (most recent call last):
+2023-05-20 02:01:36   File "/./service_main.py", line 74, in get_author
+2023-05-20 02:01:36     response_author = requests.get("http://" + service_author + "/authors/" + str(id))
+2023-05-20 02:01:36   File "/usr/local/lib/python3.10/dist-packages/requests/api.py", line 73, in get
+2023-05-20 02:01:36     return request("get", url, params=params, **kwargs)
+2023-05-20 02:01:36   File "/usr/local/lib/python3.10/dist-packages/requests/api.py", line 59, in request
+2023-05-20 02:01:36     return session.request(method=method, url=url, **kwargs)
+2023-05-20 02:01:36   File "/usr/local/lib/python3.10/dist-packages/requests/sessions.py", line 587, in request
+2023-05-20 02:01:36     resp = self.send(prep, **send_kwargs)
+2023-05-20 02:01:36   File "/usr/local/lib/python3.10/dist-packages/requests/sessions.py", line 701, in send
+2023-05-20 02:01:36     r = adapter.send(request, **kwargs)
+2023-05-20 02:01:36   File "/usr/local/lib/python3.10/dist-packages/requests/adapters.py", line 565, in send
+2023-05-20 02:01:36     raise ConnectionError(e, request=request)
+2023-05-20 02:01:36 requests.exceptions.ConnectionError: HTTPConnectionPool(host='service_author', port=8081): Max retries exceeded with url: /authors/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb65f3fe740>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+2023-05-20 02:01:36 
+2023-05-20 02:01:36 During handling of the above exception, another exception occurred:
+2023-05-20 02:01:36 
+2023-05-20 02:01:36 Traceback (most recent call last):
+2023-05-20 02:01:36   File "/usr/lib/python3.10/logging/__init__.py", line 1100, in emit
+2023-05-20 02:01:36     msg = self.format(record)
+2023-05-20 02:01:36   File "/usr/lib/python3.10/logging/__init__.py", line 943, in format
+2023-05-20 02:01:36     return fmt.format(record)
+2023-05-20 02:01:36   File "/usr/lib/python3.10/logging/__init__.py", line 678, in format
+2023-05-20 02:01:36     record.message = record.getMessage()
+2023-05-20 02:01:36   File "/usr/lib/python3.10/logging/__init__.py", line 368, in getMessage
+2023-05-20 02:01:36     msg = msg % self.args
+2023-05-20 02:01:36 TypeError: not all arguments converted during string formatting
+2023-05-20 02:01:36 Call stack:
+2023-05-20 02:01:36   File "<string>", line 1, in <module>
+2023-05-20 02:01:36   File "/usr/lib/python3.10/multiprocessing/spawn.py", line 116, in spawn_main
+2023-05-20 02:01:36     exitcode = _main(fd, parent_sentinel)
+2023-05-20 02:01:36   File "/usr/lib/python3.10/multiprocessing/spawn.py", line 129, in _main
+2023-05-20 02:01:36     return self._bootstrap(parent_sentinel)
+2023-05-20 02:01:36   File "/usr/lib/python3.10/multiprocessing/process.py", line 314, in _bootstrap
+2023-05-20 02:01:36     self.run()
+2023-05-20 02:01:36   File "/usr/lib/python3.10/multiprocessing/process.py", line 108, in run
+2023-05-20 02:01:36     self._target(*self._args, **self._kwargs)
+2023-05-20 02:01:36   File "/usr/local/lib/python3.10/dist-packages/uvicorn/_subprocess.py", line 76, in subprocess_started
+2023-05-20 02:01:36     target(sockets=sockets)
+2023-05-20 02:01:36   File "/usr/local/lib/python3.10/dist-packages/uvicorn/server.py", line 60, in run
+2023-05-20 02:01:36     return asyncio.run(self.serve(sockets=sockets))
+2023-05-20 02:01:36   File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+2023-05-20 02:01:36     return loop.run_until_complete(main)
+2023-05-20 02:01:36   File "/usr/lib/python3.10/asyncio/base_events.py", line 633, in run_until_complete
+2023-05-20 02:01:36     self.run_forever()
+2023-05-20 02:01:36   File "/usr/lib/python3.10/asyncio/base_events.py", line 600, in run_forever
+2023-05-20 02:01:36     self._run_once()
+2023-05-20 02:01:36   File "/usr/lib/python3.10/asyncio/base_events.py", line 1896, in _run_once
+2023-05-20 02:01:36     handle._run()
+2023-05-20 02:01:36   File "/usr/lib/python3.10/asyncio/events.py", line 80, in _run
+2023-05-20 02:01:36     self._context.run(self._callback, *self._args)
+2023-05-20 02:01:36   File "/usr/local/lib/python3.10/dist-packages/uvicorn/protocols/http/httptools_impl.py", line 419, in run_asgi
+2023-05-20 02:01:36     result = await app(  # type: ignore[func-returns-value]
+2023-05-20 02:01:36   File "/usr/local/lib/python3.10/dist-packages/uvicorn/middleware/proxy_headers.py", line 78, in __call__
+2023-05-20 02:01:36     return await self.app(scope, receive, send)
+2023-05-20 02:01:36   File "/usr/local/lib/python3.10/dist-packages/fastapi/applications.py", line 271, in __call__
+2023-05-20 02:01:36     await super().__call__(scope, receive, send)
+2023-05-20 02:01:36   File "/usr/local/lib/python3.10/dist-packages/starlette/applications.py", line 118, in __call__
+2023-05-20 02:01:36     await self.middleware_stack(scope, receive, send)
+2023-05-20 02:01:36   File "/usr/local/lib/python3.10/dist-packages/starlette/middleware/errors.py", line 162, in __call__
+2023-05-20 02:01:36     await self.app(scope, receive, _send)
+2023-05-20 02:01:36   File "/usr/local/lib/python3.10/dist-packages/starlette/middleware/exceptions.py", line 68, in __call__
+2023-05-20 02:01:36     await self.app(scope, receive, sender)
+2023-05-20 02:01:36   File "/usr/local/lib/python3.10/dist-packages/fastapi/middleware/asyncexitstack.py", line 18, in __call__
+2023-05-20 02:01:36     await self.app(scope, receive, send)
+2023-05-20 02:01:36   File "/usr/local/lib/python3.10/dist-packages/starlette/routing.py", line 706, in __call__
+2023-05-20 02:01:36     await route.handle(scope, receive, send)
+2023-05-20 02:01:36   File "/usr/local/lib/python3.10/dist-packages/starlette/routing.py", line 276, in handle
+2023-05-20 02:01:36     await self.app(scope, receive, send)
+2023-05-20 02:01:36   File "/usr/local/lib/python3.10/dist-packages/starlette/routing.py", line 66, in app
+2023-05-20 02:01:36     response = await func(request)
+2023-05-20 02:01:36   File "/usr/local/lib/python3.10/dist-packages/fastapi/routing.py", line 237, in app
+2023-05-20 02:01:36     raw_response = await run_endpoint_function(
+2023-05-20 02:01:36   File "/usr/local/lib/python3.10/dist-packages/fastapi/routing.py", line 163, in run_endpoint_function
+2023-05-20 02:01:36     return await dependant.call(**values)
+2023-05-20 02:01:36   File "/./service_main.py", line 105, in read_presentation
+2023-05-20 02:01:36     author = get_author(presentation.author_id)
+2023-05-20 02:01:36   File "/./circuitbreaker.py", line 159, in wrapper
+2023-05-20 02:01:36     return call(function, *args, **kwargs)
+2023-05-20 02:01:36   File "/./circuitbreaker.py", line 170, in call
+2023-05-20 02:01:36     return func(*args, **kwargs)
+2023-05-20 02:01:36   File "/./service_main.py", line 76, in get_author
+2023-05-20 02:01:36     logging.warning(">>> Error Connecting:", errc)
+2023-05-20 02:01:36 Message: '>>> Error Connecting:'
+2023-05-20 02:01:36 Arguments: (ConnectionError(MaxRetryError("HTTPConnectionPool(host='service_author', port=8081): Max retries exceeded with url: /authors/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb65f3fe740>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))")),)
+2023-05-20 02:01:37 WARNING:root:Circuit "get_author" is "closed", failures: 4
+2023-05-20 02:01:37 WARNING:root:
+2023-05-20 02:01:38 WARNING:root:Circuit "get_author" is "closed", failures: 4
+2023-05-20 02:01:38 WARNING:root:
+2023-05-20 02:01:39 WARNING:root:Circuit "get_author" is "closed", failures: 4
+2023-05-20 02:01:39 WARNING:root:
+2023-05-20 02:01:40 WARNING:root:Circuit "get_author" is "closed", failures: 4
+2023-05-20 02:01:40 WARNING:root:
+2023-05-20 02:01:41 WARNING:root:Circuit "get_author" is "closed", failures: 4
+2023-05-20 02:01:41 WARNING:root:
+2023-05-20 02:01:42 WARNING:root:Circuit "get_author" is "closed", failures: 4
+2023-05-20 02:01:43 WARNING:root:
+2023-05-20 02:01:44 WARNING:root:Circuit "get_author" is "closed", failures: 4
+2023-05-20 02:01:44 WARNING:root:
+2023-05-20 02:01:45 WARNING:root:Circuit "get_author" is "closed", failures: 4
+2023-05-20 02:01:45 WARNING:root:
+2023-05-20 02:01:46 WARNING:root:Circuit "get_author" is "closed", failures: 4
+2023-05-20 02:01:46 WARNING:root:
+2023-05-20 02:01:47 WARNING:root:Circuit "get_author" is "closed", failures: 4
+2023-05-20 02:01:47 WARNING:root:
+2023-05-20 02:01:48 WARNING:root:Circuit "get_author" is "closed", failures: 4
+2023-05-20 02:01:48 WARNING:root:
+2023-05-20 02:01:48 --- Logging error ---
+2023-05-20 02:01:48 Traceback (most recent call last):
+2023-05-20 02:01:48   File "/usr/local/lib/python3.10/dist-packages/urllib3/connection.py", line 174, in _new_conn
+2023-05-20 02:01:48     conn = connection.create_connection(
+2023-05-20 02:01:48   File "/usr/local/lib/python3.10/dist-packages/urllib3/util/connection.py", line 72, in create_connection
+2023-05-20 02:01:48     for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+2023-05-20 02:01:48   File "/usr/lib/python3.10/socket.py", line 955, in getaddrinfo
+2023-05-20 02:01:48     for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+2023-05-20 02:01:48 socket.gaierror: [Errno -3] Temporary failure in name resolution
+2023-05-20 02:01:48 
+2023-05-20 02:01:48 During handling of the above exception, another exception occurred:
+2023-05-20 02:01:48 
+2023-05-20 02:01:48 Traceback (most recent call last):
+2023-05-20 02:01:48   File "/usr/local/lib/python3.10/dist-packages/urllib3/connectionpool.py", line 703, in urlopen
+2023-05-20 02:01:48     httplib_response = self._make_request(
+2023-05-20 02:01:48   File "/usr/local/lib/python3.10/dist-packages/urllib3/connectionpool.py", line 398, in _make_request
+2023-05-20 02:01:48     conn.request(method, url, **httplib_request_kw)
+2023-05-20 02:01:48   File "/usr/local/lib/python3.10/dist-packages/urllib3/connection.py", line 239, in request
+2023-05-20 02:01:48     super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+2023-05-20 02:01:48   File "/usr/lib/python3.10/http/client.py", line 1282, in request
+2023-05-20 02:01:48     self._send_request(method, url, body, headers, encode_chunked)
+2023-05-20 02:01:48   File "/usr/lib/python3.10/http/client.py", line 1328, in _send_request
+2023-05-20 02:01:48     self.endheaders(body, encode_chunked=encode_chunked)
+2023-05-20 02:01:48   File "/usr/lib/python3.10/http/client.py", line 1277, in endheaders
+2023-05-20 02:01:48     self._send_output(message_body, encode_chunked=encode_chunked)
+2023-05-20 02:01:48   File "/usr/lib/python3.10/http/client.py", line 1037, in _send_output
+2023-05-20 02:01:48     self.send(msg)
+2023-05-20 02:01:48   File "/usr/lib/python3.10/http/client.py", line 975, in send
+2023-05-20 02:01:48     self.connect()
+2023-05-20 02:01:48   File "/usr/local/lib/python3.10/dist-packages/urllib3/connection.py", line 205, in connect
+2023-05-20 02:01:48     conn = self._new_conn()
+2023-05-20 02:01:48   File "/usr/local/lib/python3.10/dist-packages/urllib3/connection.py", line 186, in _new_conn
+2023-05-20 02:01:48     raise NewConnectionError(
+2023-05-20 02:01:48 urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x7fb65f3fd7e0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution
+2023-05-20 02:01:48 
+2023-05-20 02:01:48 During handling of the above exception, another exception occurred:
+2023-05-20 02:01:48 
+2023-05-20 02:01:48 Traceback (most recent call last):
+2023-05-20 02:01:48   File "/usr/local/lib/python3.10/dist-packages/requests/adapters.py", line 489, in send
+2023-05-20 02:01:48     resp = conn.urlopen(
+2023-05-20 02:01:48   File "/usr/local/lib/python3.10/dist-packages/urllib3/connectionpool.py", line 787, in urlopen
+2023-05-20 02:01:48     retries = retries.increment(
+2023-05-20 02:01:48   File "/usr/local/lib/python3.10/dist-packages/urllib3/util/retry.py", line 592, in increment
+2023-05-20 02:01:48     raise MaxRetryError(_pool, url, error or ResponseError(cause))
+2023-05-20 02:01:48 urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='service_author', port=8081): Max retries exceeded with url: /authors/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb65f3fd7e0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+2023-05-20 02:01:48 
+2023-05-20 02:01:48 During handling of the above exception, another exception occurred:
+2023-05-20 02:01:48 
+2023-05-20 02:01:48 Traceback (most recent call last):
+2023-05-20 02:01:48   File "/./service_main.py", line 74, in get_author
+2023-05-20 02:01:48     response_author = requests.get("http://" + service_author + "/authors/" + str(id))
+2023-05-20 02:01:48   File "/usr/local/lib/python3.10/dist-packages/requests/api.py", line 73, in get
+2023-05-20 02:01:48     return request("get", url, params=params, **kwargs)
+2023-05-20 02:01:48   File "/usr/local/lib/python3.10/dist-packages/requests/api.py", line 59, in request
+2023-05-20 02:01:48     return session.request(method=method, url=url, **kwargs)
+2023-05-20 02:01:48   File "/usr/local/lib/python3.10/dist-packages/requests/sessions.py", line 587, in request
+2023-05-20 02:01:48     resp = self.send(prep, **send_kwargs)
+2023-05-20 02:01:48   File "/usr/local/lib/python3.10/dist-packages/requests/sessions.py", line 701, in send
+2023-05-20 02:01:48     r = adapter.send(request, **kwargs)
+2023-05-20 02:01:48   File "/usr/local/lib/python3.10/dist-packages/requests/adapters.py", line 565, in send
+2023-05-20 02:01:48     raise ConnectionError(e, request=request)
+2023-05-20 02:01:48 requests.exceptions.ConnectionError: HTTPConnectionPool(host='service_author', port=8081): Max retries exceeded with url: /authors/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb65f3fd7e0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+2023-05-20 02:01:48 
+2023-05-20 02:01:48 During handling of the above exception, another exception occurred:
+2023-05-20 02:01:48 
+2023-05-20 02:01:48 Traceback (most recent call last):
+2023-05-20 02:01:48   File "/usr/lib/python3.10/logging/__init__.py", line 1100, in emit
+2023-05-20 02:01:48     msg = self.format(record)
+2023-05-20 02:01:48   File "/usr/lib/python3.10/logging/__init__.py", line 943, in format
+2023-05-20 02:01:48     return fmt.format(record)
+2023-05-20 02:01:48   File "/usr/lib/python3.10/logging/__init__.py", line 678, in format
+2023-05-20 02:01:48     record.message = record.getMessage()
+2023-05-20 02:01:48   File "/usr/lib/python3.10/logging/__init__.py", line 368, in getMessage
+2023-05-20 02:01:48     msg = msg % self.args
+2023-05-20 02:01:48 TypeError: not all arguments converted during string formatting
+2023-05-20 02:01:48 Call stack:
+2023-05-20 02:01:48   File "<string>", line 1, in <module>
+2023-05-20 02:01:48   File "/usr/lib/python3.10/multiprocessing/spawn.py", line 116, in spawn_main
+2023-05-20 02:01:48     exitcode = _main(fd, parent_sentinel)
+2023-05-20 02:01:48   File "/usr/lib/python3.10/multiprocessing/spawn.py", line 129, in _main
+2023-05-20 02:01:48     return self._bootstrap(parent_sentinel)
+2023-05-20 02:01:48   File "/usr/lib/python3.10/multiprocessing/process.py", line 314, in _bootstrap
+2023-05-20 02:01:48     self.run()
+2023-05-20 02:01:48   File "/usr/lib/python3.10/multiprocessing/process.py", line 108, in run
+2023-05-20 02:01:48     self._target(*self._args, **self._kwargs)
+2023-05-20 02:01:48   File "/usr/local/lib/python3.10/dist-packages/uvicorn/_subprocess.py", line 76, in subprocess_started
+2023-05-20 02:01:48     target(sockets=sockets)
+2023-05-20 02:01:48   File "/usr/local/lib/python3.10/dist-packages/uvicorn/server.py", line 60, in run
+2023-05-20 02:01:48     return asyncio.run(self.serve(sockets=sockets))
+2023-05-20 02:01:48   File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+2023-05-20 02:01:48     return loop.run_until_complete(main)
+2023-05-20 02:01:48   File "/usr/lib/python3.10/asyncio/base_events.py", line 633, in run_until_complete
+2023-05-20 02:01:48     self.run_forever()
+2023-05-20 02:01:48   File "/usr/lib/python3.10/asyncio/base_events.py", line 600, in run_forever
+2023-05-20 02:01:48     self._run_once()
+2023-05-20 02:01:48   File "/usr/lib/python3.10/asyncio/base_events.py", line 1896, in _run_once
+2023-05-20 02:01:48     handle._run()
+2023-05-20 02:01:48   File "/usr/lib/python3.10/asyncio/events.py", line 80, in _run
+2023-05-20 02:01:48     self._context.run(self._callback, *self._args)
+2023-05-20 02:01:48   File "/usr/local/lib/python3.10/dist-packages/uvicorn/protocols/http/httptools_impl.py", line 419, in run_asgi
+2023-05-20 02:01:48     result = await app(  # type: ignore[func-returns-value]
+2023-05-20 02:01:48   File "/usr/local/lib/python3.10/dist-packages/uvicorn/middleware/proxy_headers.py", line 78, in __call__
+2023-05-20 02:01:48     return await self.app(scope, receive, send)
+2023-05-20 02:01:48   File "/usr/local/lib/python3.10/dist-packages/fastapi/applications.py", line 271, in __call__
+2023-05-20 02:01:48     await super().__call__(scope, receive, send)
+2023-05-20 02:01:48   File "/usr/local/lib/python3.10/dist-packages/starlette/applications.py", line 118, in __call__
+2023-05-20 02:01:48     await self.middleware_stack(scope, receive, send)
+2023-05-20 02:01:48   File "/usr/local/lib/python3.10/dist-packages/starlette/middleware/errors.py", line 162, in __call__
+2023-05-20 02:01:48     await self.app(scope, receive, _send)
+2023-05-20 02:01:48   File "/usr/local/lib/python3.10/dist-packages/starlette/middleware/exceptions.py", line 68, in __call__
+2023-05-20 02:01:48     await self.app(scope, receive, sender)
+2023-05-20 02:01:48   File "/usr/local/lib/python3.10/dist-packages/fastapi/middleware/asyncexitstack.py", line 18, in __call__
+2023-05-20 02:01:48     await self.app(scope, receive, send)
+2023-05-20 02:01:48   File "/usr/local/lib/python3.10/dist-packages/starlette/routing.py", line 706, in __call__
+2023-05-20 02:01:48     await route.handle(scope, receive, send)
+2023-05-20 02:01:48   File "/usr/local/lib/python3.10/dist-packages/starlette/routing.py", line 276, in handle
+2023-05-20 02:01:48     await self.app(scope, receive, send)
+2023-05-20 02:01:48   File "/usr/local/lib/python3.10/dist-packages/starlette/routing.py", line 66, in app
+2023-05-20 02:01:48     response = await func(request)
+2023-05-20 02:01:48   File "/usr/local/lib/python3.10/dist-packages/fastapi/routing.py", line 237, in app
+2023-05-20 02:01:48     raw_response = await run_endpoint_function(
+2023-05-20 02:01:48   File "/usr/local/lib/python3.10/dist-packages/fastapi/routing.py", line 163, in run_endpoint_function
+2023-05-20 02:01:48     return await dependant.call(**values)
+2023-05-20 02:01:48   File "/./service_main.py", line 105, in read_presentation
+2023-05-20 02:01:48     author = get_author(presentation.author_id)
+2023-05-20 02:01:48   File "/./circuitbreaker.py", line 159, in wrapper
+2023-05-20 02:01:48     return call(function, *args, **kwargs)
+2023-05-20 02:01:50 INFO:     172.19.0.1:40050 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 02:01:51 INFO:     172.19.0.1:40054 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 02:01:52 INFO:     172.19.0.1:40058 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 02:01:53 INFO:     172.19.0.1:40062 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 02:01:55 INFO:     172.19.0.1:40066 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 02:01:56 INFO:     172.19.0.1:40070 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 02:01:57 INFO:     172.19.0.1:40074 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 02:02:08 INFO:     172.19.0.1:40078 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 500 Internal Server Error
+2023-05-20 02:01:48   File "/./circuitbreaker.py", line 170, in call
+2023-05-20 02:01:48     return func(*args, **kwargs)
+2023-05-20 02:01:48   File "/./service_main.py", line 76, in get_author
+2023-05-20 02:01:48     logging.warning(">>> Error Connecting:", errc)
+2023-05-20 02:01:48 Message: '>>> Error Connecting:'
+2023-05-20 02:01:48 Arguments: (ConnectionError(MaxRetryError("HTTPConnectionPool(host='service_author', port=8081): Max retries exceeded with url: /authors/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb65f3fd7e0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))")),)
+2023-05-20 02:01:49 WARNING:root:Circuit "get_author" is "open", failures: 5
+2023-05-20 02:01:49 WARNING:root:
+2023-05-20 02:01:50 WARNING:root:Circuit "get_author" is "open", failures: 5
+2023-05-20 02:01:50 WARNING:root:
+2023-05-20 02:01:50 CRITICAL:root:Circuit OPEN
+2023-05-20 02:01:51 WARNING:root:Circuit "get_author" is "open", failures: 5
+2023-05-20 02:01:51 WARNING:root:
+2023-05-20 02:01:51 CRITICAL:root:Circuit OPEN
+2023-05-20 02:01:52 WARNING:root:Circuit "get_author" is "open", failures: 5
+2023-05-20 02:01:52 WARNING:root:
+2023-05-20 02:01:52 CRITICAL:root:Circuit OPEN
+2023-05-20 02:01:53 WARNING:root:Circuit "get_author" is "open", failures: 5
+2023-05-20 02:01:53 WARNING:root:
+2023-05-20 02:01:53 CRITICAL:root:Circuit OPEN
+2023-05-20 02:01:54 WARNING:root:Circuit "get_author" is "open", failures: 5
+2023-05-20 02:01:54 WARNING:root:
+2023-05-20 02:01:55 CRITICAL:root:Circuit OPEN
+2023-05-20 02:01:55 WARNING:root:Circuit "get_author" is "open", failures: 5
+2023-05-20 02:01:55 WARNING:root:
+2023-05-20 02:01:56 CRITICAL:root:Circuit OPEN
+2023-05-20 02:01:56 WARNING:root:Circuit "get_author" is "open", failures: 5
+2023-05-20 02:01:56 WARNING:root:
+2023-05-20 02:01:57 CRITICAL:root:Circuit OPEN
+2023-05-20 02:01:57 WARNING:root:Circuit "get_author" is "open", failures: 5
+2023-05-20 02:01:57 WARNING:root:
+2023-05-20 02:01:58 WARNING:root:Circuit "get_author" is "open", failures: 5
+2023-05-20 02:01:58 WARNING:root:
+2023-05-20 02:01:59 WARNING:root:Circuit "get_author" is "half_open", failures: 5
+2023-05-20 02:01:59 WARNING:root:
+2023-05-20 02:02:00 WARNING:root:Circuit "get_author" is "half_open", failures: 5
+2023-05-20 02:02:00 WARNING:root:
+2023-05-20 02:02:01 WARNING:root:Circuit "get_author" is "half_open", failures: 5
+2023-05-20 02:02:01 WARNING:root:
+2023-05-20 02:02:02 WARNING:root:Circuit "get_author" is "half_open", failures: 5
+2023-05-20 02:02:02 WARNING:root:
+2023-05-20 02:02:03 WARNING:root:Circuit "get_author" is "half_open", failures: 5
+2023-05-20 02:02:03 WARNING:root:
+2023-05-20 02:02:04 WARNING:root:Circuit "get_author" is "half_open", failures: 5
+2023-05-20 02:02:04 WARNING:root:
+2023-05-20 02:02:05 WARNING:root:Circuit "get_author" is "half_open", failures: 5
+2023-05-20 02:02:05 WARNING:root:
+2023-05-20 02:02:06 WARNING:root:Circuit "get_author" is "half_open", failures: 5
+2023-05-20 02:02:06 WARNING:root:
+2023-05-20 02:02:07 WARNING:root:Circuit "get_author" is "half_open", failures: 5
+2023-05-20 02:02:07 WARNING:root:
+2023-05-20 02:02:08 WARNING:root:Circuit "get_author" is "half_open", failures: 5
+2023-05-20 02:02:08 WARNING:root:
+2023-05-20 02:02:08 --- Logging error ---
+2023-05-20 02:02:08 Traceback (most recent call last):
+2023-05-20 02:02:08   File "/usr/local/lib/python3.10/dist-packages/urllib3/connection.py", line 174, in _new_conn
+2023-05-20 02:02:08     conn = connection.create_connection(
+2023-05-20 02:02:08   File "/usr/local/lib/python3.10/dist-packages/urllib3/util/connection.py", line 72, in create_connection
+2023-05-20 02:02:08     for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+2023-05-20 02:02:08   File "/usr/lib/python3.10/socket.py", line 955, in getaddrinfo
+2023-05-20 02:02:08     for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+2023-05-20 02:02:08 socket.gaierror: [Errno -3] Temporary failure in name resolution
+2023-05-20 02:02:08 
+2023-05-20 02:02:08 During handling of the above exception, another exception occurred:
+2023-05-20 02:02:08 
+2023-05-20 02:02:08 Traceback (most recent call last):
+2023-05-20 02:02:08   File "/usr/local/lib/python3.10/dist-packages/urllib3/connectionpool.py", line 703, in urlopen
+2023-05-20 02:02:08     httplib_response = self._make_request(
+2023-05-20 02:02:08   File "/usr/local/lib/python3.10/dist-packages/urllib3/connectionpool.py", line 398, in _make_request
+2023-05-20 02:02:08     conn.request(method, url, **httplib_request_kw)
+2023-05-20 02:02:08   File "/usr/local/lib/python3.10/dist-packages/urllib3/connection.py", line 239, in request
+2023-05-20 02:02:08     super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+2023-05-20 02:02:08   File "/usr/lib/python3.10/http/client.py", line 1282, in request
+2023-05-20 02:02:08     self._send_request(method, url, body, headers, encode_chunked)
+2023-05-20 02:02:08   File "/usr/lib/python3.10/http/client.py", line 1328, in _send_request
+2023-05-20 02:02:08     self.endheaders(body, encode_chunked=encode_chunked)
+2023-05-20 02:02:08   File "/usr/lib/python3.10/http/client.py", line 1277, in endheaders
+2023-05-20 02:02:08     self._send_output(message_body, encode_chunked=encode_chunked)
+2023-05-20 02:02:08   File "/usr/lib/python3.10/http/client.py", line 1037, in _send_output
+2023-05-20 02:02:08     self.send(msg)
+2023-05-20 02:02:08   File "/usr/lib/python3.10/http/client.py", line 975, in send
+2023-05-20 02:02:08     self.connect()
+2023-05-20 02:02:08   File "/usr/local/lib/python3.10/dist-packages/urllib3/connection.py", line 205, in connect
+2023-05-20 02:02:08     conn = self._new_conn()
+2023-05-20 02:02:08   File "/usr/local/lib/python3.10/dist-packages/urllib3/connection.py", line 186, in _new_conn
+2023-05-20 02:02:08     raise NewConnectionError(
+2023-05-20 02:02:08 urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x7fb65f3ff490>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution
+2023-05-20 02:02:08 
+2023-05-20 02:02:08 During handling of the above exception, another exception occurred:
+2023-05-20 02:02:08 
+2023-05-20 02:02:08 Traceback (most recent call last):
+2023-05-20 02:02:08   File "/usr/local/lib/python3.10/dist-packages/requests/adapters.py", line 489, in send
+2023-05-20 02:02:08     resp = conn.urlopen(
+2023-05-20 02:02:08   File "/usr/local/lib/python3.10/dist-packages/urllib3/connectionpool.py", line 787, in urlopen
+2023-05-20 02:02:08     retries = retries.increment(
+2023-05-20 02:02:08   File "/usr/local/lib/python3.10/dist-packages/urllib3/util/retry.py", line 592, in increment
+2023-05-20 02:02:08     raise MaxRetryError(_pool, url, error or ResponseError(cause))
+2023-05-20 02:02:08 urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='service_author', port=8081): Max retries exceeded with url: /authors/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb65f3ff490>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+2023-05-20 02:02:08 
+2023-05-20 02:02:08 During handling of the above exception, another exception occurred:
+2023-05-20 02:02:08 
+2023-05-20 02:02:08 Traceback (most recent call last):
+2023-05-20 02:02:08   File "/./service_main.py", line 74, in get_author
+2023-05-20 02:02:08     response_author = requests.get("http://" + service_author + "/authors/" + str(id))
+2023-05-20 02:02:08   File "/usr/local/lib/python3.10/dist-packages/requests/api.py", line 73, in get
+2023-05-20 02:02:08     return request("get", url, params=params, **kwargs)
+2023-05-20 02:02:08   File "/usr/local/lib/python3.10/dist-packages/requests/api.py", line 59, in request
+2023-05-20 02:02:08     return session.request(method=method, url=url, **kwargs)
+2023-05-20 02:02:08   File "/usr/local/lib/python3.10/dist-packages/requests/sessions.py", line 587, in request
+2023-05-20 02:02:08     resp = self.send(prep, **send_kwargs)
+2023-05-20 02:02:08   File "/usr/local/lib/python3.10/dist-packages/requests/sessions.py", line 701, in send
+2023-05-20 02:02:08     r = adapter.send(request, **kwargs)
+2023-05-20 02:02:08   File "/usr/local/lib/python3.10/dist-packages/requests/adapters.py", line 565, in send
+2023-05-20 02:02:08     raise ConnectionError(e, request=request)
+2023-05-20 02:02:08 requests.exceptions.ConnectionError: HTTPConnectionPool(host='service_author', port=8081): Max retries exceeded with url: /authors/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb65f3ff490>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+2023-05-20 02:02:08 
+2023-05-20 02:02:08 During handling of the above exception, another exception occurred:
+2023-05-20 02:02:08 
+2023-05-20 02:02:08 Traceback (most recent call last):
+2023-05-20 02:02:08   File "/usr/lib/python3.10/logging/__init__.py", line 1100, in emit
+2023-05-20 02:02:08     msg = self.format(record)
+2023-05-20 02:02:08   File "/usr/lib/python3.10/logging/__init__.py", line 943, in format
+2023-05-20 02:02:08     return fmt.format(record)
+2023-05-20 02:02:08   File "/usr/lib/python3.10/logging/__init__.py", line 678, in format
+2023-05-20 02:02:08     record.message = record.getMessage()
+2023-05-20 02:02:08   File "/usr/lib/python3.10/logging/__init__.py", line 368, in getMessage
+2023-05-20 02:02:08     msg = msg % self.args
+2023-05-20 02:02:08 TypeError: not all arguments converted during string formatting
+2023-05-20 02:02:08 Call stack:
+2023-05-20 02:02:08   File "<string>", line 1, in <module>
+2023-05-20 02:02:08   File "/usr/lib/python3.10/multiprocessing/spawn.py", line 116, in spawn_main
+2023-05-20 02:02:08     exitcode = _main(fd, parent_sentinel)
+2023-05-20 02:02:08   File "/usr/lib/python3.10/multiprocessing/spawn.py", line 129, in _main
+2023-05-20 02:02:08     return self._bootstrap(parent_sentinel)
+2023-05-20 02:02:08   File "/usr/lib/python3.10/multiprocessing/process.py", line 314, in _bootstrap
+2023-05-20 02:02:08     self.run()
+2023-05-20 02:02:08   File "/usr/lib/python3.10/multiprocessing/process.py", line 108, in run
+2023-05-20 02:02:08     self._target(*self._args, **self._kwargs)
+2023-05-20 02:02:08   File "/usr/local/lib/python3.10/dist-packages/uvicorn/_subprocess.py", line 76, in subprocess_started
+2023-05-20 02:02:08     target(sockets=sockets)
+2023-05-20 02:02:08   File "/usr/local/lib/python3.10/dist-packages/uvicorn/server.py", line 60, in run
+2023-05-20 02:02:08     return asyncio.run(self.serve(sockets=sockets))
+2023-05-20 02:02:08   File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+2023-05-20 02:02:08     return loop.run_until_complete(main)
+2023-05-20 02:02:08   File "/usr/lib/python3.10/asyncio/base_events.py", line 633, in run_until_complete
+2023-05-20 02:02:08     self.run_forever()
+2023-05-20 02:02:08   File "/usr/lib/python3.10/asyncio/base_events.py", line 600, in run_forever
+2023-05-20 02:02:08     self._run_once()
+2023-05-20 02:02:08   File "/usr/lib/python3.10/asyncio/base_events.py", line 1896, in _run_once
+2023-05-20 02:02:08     handle._run()
+2023-05-20 02:02:08   File "/usr/lib/python3.10/asyncio/events.py", line 80, in _run
+2023-05-20 02:02:08     self._context.run(self._callback, *self._args)
+2023-05-20 02:02:08   File "/usr/local/lib/python3.10/dist-packages/uvicorn/protocols/http/httptools_impl.py", line 419, in run_asgi
+2023-05-20 02:02:08     result = await app(  # type: ignore[func-returns-value]
+2023-05-20 02:02:08   File "/usr/local/lib/python3.10/dist-packages/uvicorn/middleware/proxy_headers.py", line 78, in __call__
+2023-05-20 02:02:08     return await self.app(scope, receive, send)
+2023-05-20 02:02:08   File "/usr/local/lib/python3.10/dist-packages/fastapi/applications.py", line 271, in __call__
+2023-05-20 02:02:08     await super().__call__(scope, receive, send)
+2023-05-20 02:02:08   File "/usr/local/lib/python3.10/dist-packages/starlette/applications.py", line 118, in __call__
+2023-05-20 02:02:08     await self.middleware_stack(scope, receive, send)
+2023-05-20 02:02:08   File "/usr/local/lib/python3.10/dist-packages/starlette/middleware/errors.py", line 162, in __call__
+2023-05-20 02:02:08     await self.app(scope, receive, _send)
+2023-05-20 02:02:08   File "/usr/local/lib/python3.10/dist-packages/starlette/middleware/exceptions.py", line 68, in __call__
+2023-05-20 02:02:08     await self.app(scope, receive, sender)
+2023-05-20 02:02:08   File "/usr/local/lib/python3.10/dist-packages/fastapi/middleware/asyncexitstack.py", line 18, in __call__
+2023-05-20 02:02:08     await self.app(scope, receive, send)
+2023-05-20 02:02:08   File "/usr/local/lib/python3.10/dist-packages/starlette/routing.py", line 706, in __call__
+2023-05-20 02:02:08     await route.handle(scope, receive, send)
+2023-05-20 02:02:08   File "/usr/local/lib/python3.10/dist-packages/starlette/routing.py", line 276, in handle
+2023-05-20 02:02:08     await self.app(scope, receive, send)
+2023-05-20 02:02:08   File "/usr/local/lib/python3.10/dist-packages/starlette/routing.py", line 66, in app
+2023-05-20 02:02:08     response = await func(request)
+2023-05-20 02:02:08   File "/usr/local/lib/python3.10/dist-packages/fastapi/routing.py", line 237, in app
+2023-05-20 02:02:08     raw_response = await run_endpoint_function(
+2023-05-20 02:02:08   File "/usr/local/lib/python3.10/dist-packages/fastapi/routing.py", line 163, in run_endpoint_function
+2023-05-20 02:02:08     return await dependant.call(**values)
+2023-05-20 02:02:08   File "/./service_main.py", line 105, in read_presentation
+2023-05-20 02:02:08     author = get_author(presentation.author_id)
+2023-05-20 02:02:08   File "/./circuitbreaker.py", line 159, in wrapper
+2023-05-20 02:02:08     return call(function, *args, **kwargs)
+2023-05-20 02:02:08   File "/./circuitbreaker.py", line 170, in call
+2023-05-20 02:02:08     return func(*args, **kwargs)
+2023-05-20 02:02:08   File "/./service_main.py", line 76, in get_author
+2023-05-20 02:02:08     logging.warning(">>> Error Connecting:", errc)
+2023-05-20 02:02:08 Message: '>>> Error Connecting:'
+2023-05-20 02:02:08 Arguments: (ConnectionError(MaxRetryError("HTTPConnectionPool(host='service_author', port=8081): Max retries exceeded with url: /authors/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb65f3ff490>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))")),)
+2023-05-20 02:02:09 WARNING:root:Circuit "get_author" is "open", failures: 6
+2023-05-20 02:02:09 WARNING:root:
+2023-05-20 02:02:10 WARNING:root:Circuit "get_author" is "open", failures: 6
+2023-05-20 02:02:10 WARNING:root:
+2023-05-20 02:02:11 WARNING:root:Circuit "get_author" is "open", failures: 6
+2023-05-20 02:02:11 WARNING:root:
+2023-05-20 02:02:12 WARNING:root:Circuit "get_author" is "open", failures: 6
+2023-05-20 02:02:12 WARNING:root:
+2023-05-20 02:02:13 WARNING:root:Circuit "get_author" is "open", failures: 6
+2023-05-20 02:02:13 WARNING:root:
+2023-05-20 02:02:14 WARNING:root:Circuit "get_author" is "open", failures: 6
+2023-05-20 02:02:14 WARNING:root:
+2023-05-20 02:02:15 WARNING:root:Circuit "get_author" is "open", failures: 6
+2023-05-20 02:02:15 WARNING:root:
+2023-05-20 02:02:16 WARNING:root:Circuit "get_author" is "open", failures: 6
+2023-05-20 02:02:16 WARNING:root:
+2023-05-20 02:02:17 WARNING:root:Circuit "get_author" is "open", failures: 6
+2023-05-20 02:02:17 WARNING:root:
+2023-05-20 02:02:18 WARNING:root:Circuit "get_author" is "half_open", failures: 6
+2023-05-20 02:02:18 WARNING:root:
+2023-05-20 02:02:19 WARNING:root:Circuit "get_author" is "half_open", failures: 6
+2023-05-20 02:02:19 WARNING:root:
+2023-05-20 02:02:20 WARNING:root:Circuit "get_author" is "half_open", failures: 6
+2023-05-20 02:02:20 WARNING:root:
+2023-05-20 02:02:21 WARNING:root:Circuit "get_author" is "half_open", failures: 6
+2023-05-20 02:02:22 WARNING:root:
+2023-05-20 02:02:23 WARNING:root:Circuit "get_author" is "half_open", failures: 6
+2023-05-20 02:02:23 WARNING:root:
+2023-05-20 02:02:24 WARNING:root:Circuit "get_author" is "half_open", failures: 6
+2023-05-20 02:02:24 WARNING:root:
+2023-05-20 02:02:25 WARNING:root:Circuit "get_author" is "half_open", failures: 6
+2023-05-20 02:02:25 WARNING:root:
+2023-05-20 02:02:26 WARNING:root:Circuit "get_author" is "half_open", failures: 6
+2023-05-20 02:02:26 WARNING:root:
+2023-05-20 02:02:27 WARNING:root:Circuit "get_author" is "half_open", failures: 6
+2023-05-20 02:02:27 WARNING:root:
+2023-05-20 02:02:28 WARNING:root:Circuit "get_author" is "half_open", failures: 6
+2023-05-20 02:02:28 WARNING:root:
+2023-05-20 02:02:29 WARNING:root:Circuit "get_author" is "half_open", failures: 6
+2023-05-20 02:02:29 WARNING:root:
+2023-05-20 02:02:29 --- Logging error ---
+2023-05-20 02:02:29 Traceback (most recent call last):
+2023-05-20 02:02:29   File "/usr/local/lib/python3.10/dist-packages/urllib3/connection.py", line 174, in _new_conn
+2023-05-20 02:02:29     conn = connection.create_connection(
+2023-05-20 02:02:29   File "/usr/local/lib/python3.10/dist-packages/urllib3/util/connection.py", line 72, in create_connection
+2023-05-20 02:02:29     for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+2023-05-20 02:02:29   File "/usr/lib/python3.10/socket.py", line 955, in getaddrinfo
+2023-05-20 02:02:29     for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+2023-05-20 02:02:29 socket.gaierror: [Errno -3] Temporary failure in name resolution
+2023-05-20 02:02:29 
+2023-05-20 02:02:29 During handling of the above exception, another exception occurred:
+2023-05-20 02:02:29 
+2023-05-20 02:02:29 Traceback (most recent call last):
+2023-05-20 02:02:29   File "/usr/local/lib/python3.10/dist-packages/urllib3/connectionpool.py", line 703, in urlopen
+2023-05-20 02:02:29     httplib_response = self._make_request(
+2023-05-20 02:02:29   File "/usr/local/lib/python3.10/dist-packages/urllib3/connectionpool.py", line 398, in _make_request
+2023-05-20 02:02:29     conn.request(method, url, **httplib_request_kw)
+2023-05-20 02:02:29   File "/usr/local/lib/python3.10/dist-packages/urllib3/connection.py", line 239, in request
+2023-05-20 02:02:29     super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+2023-05-20 02:02:29   File "/usr/lib/python3.10/http/client.py", line 1282, in request
+2023-05-20 02:02:29     self._send_request(method, url, body, headers, encode_chunked)
+2023-05-20 02:02:29   File "/usr/lib/python3.10/http/client.py", line 1328, in _send_request
+2023-05-20 02:02:29     self.endheaders(body, encode_chunked=encode_chunked)
+2023-05-20 02:02:29   File "/usr/lib/python3.10/http/client.py", line 1277, in endheaders
+2023-05-20 02:02:29     self._send_output(message_body, encode_chunked=encode_chunked)
+2023-05-20 02:02:29   File "/usr/lib/python3.10/http/client.py", line 1037, in _send_output
+2023-05-20 02:02:29     self.send(msg)
+2023-05-20 02:02:29   File "/usr/lib/python3.10/http/client.py", line 975, in send
+2023-05-20 02:02:29     self.connect()
+2023-05-20 02:02:29   File "/usr/local/lib/python3.10/dist-packages/urllib3/connection.py", line 205, in connect
+2023-05-20 02:02:29     conn = self._new_conn()
+2023-05-20 02:02:29   File "/usr/local/lib/python3.10/dist-packages/urllib3/connection.py", line 186, in _new_conn
+2023-05-20 02:02:29     raise NewConnectionError(
+2023-05-20 02:02:29 urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x7fb65f4d8910>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution
+2023-05-20 02:02:29 
+2023-05-20 02:02:29 During handling of the above exception, another exception occurred:
+2023-05-20 02:02:29 
+2023-05-20 02:02:29 Traceback (most recent call last):
+2023-05-20 02:02:29   File "/usr/local/lib/python3.10/dist-packages/requests/adapters.py", line 489, in send
+2023-05-20 02:02:29     resp = conn.urlopen(
+2023-05-20 02:02:29   File "/usr/local/lib/python3.10/dist-packages/urllib3/connectionpool.py", line 787, in urlopen
+2023-05-20 02:02:29     retries = retries.increment(
+2023-05-20 02:02:29   File "/usr/local/lib/python3.10/dist-packages/urllib3/util/retry.py", line 592, in increment
+2023-05-20 02:02:29     raise MaxRetryError(_pool, url, error or ResponseError(cause))
+2023-05-20 02:02:29 urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='service_author', port=8081): Max retries exceeded with url: /authors/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb65f4d8910>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+2023-05-20 02:02:29 
+2023-05-20 02:02:29 During handling of the above exception, another exception occurred:
+2023-05-20 02:02:29 
+2023-05-20 02:02:29 Traceback (most recent call last):
+2023-05-20 02:02:29   File "/./service_main.py", line 74, in get_author
+2023-05-20 02:02:29     response_author = requests.get("http://" + service_author + "/authors/" + str(id))
+2023-05-20 02:02:29   File "/usr/local/lib/python3.10/dist-packages/requests/api.py", line 73, in get
+2023-05-20 02:02:29     return request("get", url, params=params, **kwargs)
+2023-05-20 02:02:29   File "/usr/local/lib/python3.10/dist-packages/requests/api.py", line 59, in request
+2023-05-20 02:02:29     return session.request(method=method, url=url, **kwargs)
+2023-05-20 02:02:29   File "/usr/local/lib/python3.10/dist-packages/requests/sessions.py", line 587, in request
+2023-05-20 02:02:29     resp = self.send(prep, **send_kwargs)
+2023-05-20 02:02:29   File "/usr/local/lib/python3.10/dist-packages/requests/sessions.py", line 701, in send
+2023-05-20 02:02:29     r = adapter.send(request, **kwargs)
+2023-05-20 02:02:29   File "/usr/local/lib/python3.10/dist-packages/requests/adapters.py", line 565, in send
+2023-05-20 02:02:29     raise ConnectionError(e, request=request)
+2023-05-20 02:02:29 requests.exceptions.ConnectionError: HTTPConnectionPool(host='service_author', port=8081): Max retries exceeded with url: /authors/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb65f4d8910>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+2023-05-20 02:02:29 
+2023-05-20 02:02:29 During handling of the above exception, another exception occurred:
+2023-05-20 02:02:29 
+2023-05-20 02:02:29 Traceback (most recent call last):
+2023-05-20 02:02:29   File "/usr/lib/python3.10/logging/__init__.py", line 1100, in emit
+2023-05-20 02:02:29     msg = self.format(record)
+2023-05-20 02:02:29   File "/usr/lib/python3.10/logging/__init__.py", line 943, in format
+2023-05-20 02:02:29     return fmt.format(record)
+2023-05-20 02:02:29   File "/usr/lib/python3.10/logging/__init__.py", line 678, in format
+2023-05-20 02:02:29     record.message = record.getMessage()
+2023-05-20 02:02:29   File "/usr/lib/python3.10/logging/__init__.py", line 368, in getMessage
+2023-05-20 02:02:29     msg = msg % self.args
+2023-05-20 02:02:29 TypeError: not all arguments converted during string formatting
+2023-05-20 02:02:29 Call stack:
+2023-05-20 02:02:29   File "<string>", line 1, in <module>
+2023-05-20 02:02:29   File "/usr/lib/python3.10/multiprocessing/spawn.py", line 116, in spawn_main
+2023-05-20 02:02:29     exitcode = _main(fd, parent_sentinel)
+2023-05-20 02:02:29   File "/usr/lib/python3.10/multiprocessing/spawn.py", line 129, in _main
+2023-05-20 02:02:29 INFO:     172.19.0.1:40082 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 500 Internal Server Error
+2023-05-20 02:02:30 INFO:     172.19.0.1:40086 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 02:02:32 INFO:     172.19.0.1:40090 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 02:02:33 INFO:     172.19.0.1:40094 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 02:02:34 INFO:     172.19.0.1:40098 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 02:02:35 INFO:     172.19.0.1:40102 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 02:02:29     return self._bootstrap(parent_sentinel)
+2023-05-20 02:02:29   File "/usr/lib/python3.10/multiprocessing/process.py", line 314, in _bootstrap
+2023-05-20 02:02:29     self.run()
+2023-05-20 02:02:29   File "/usr/lib/python3.10/multiprocessing/process.py", line 108, in run
+2023-05-20 02:02:29     self._target(*self._args, **self._kwargs)
+2023-05-20 02:02:29   File "/usr/local/lib/python3.10/dist-packages/uvicorn/_subprocess.py", line 76, in subprocess_started
+2023-05-20 02:02:29     target(sockets=sockets)
+2023-05-20 02:02:29   File "/usr/local/lib/python3.10/dist-packages/uvicorn/server.py", line 60, in run
+2023-05-20 02:02:29     return asyncio.run(self.serve(sockets=sockets))
+2023-05-20 02:02:29   File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+2023-05-20 02:02:29     return loop.run_until_complete(main)
+2023-05-20 02:02:29   File "/usr/lib/python3.10/asyncio/base_events.py", line 633, in run_until_complete
+2023-05-20 02:02:29     self.run_forever()
+2023-05-20 02:02:29   File "/usr/lib/python3.10/asyncio/base_events.py", line 600, in run_forever
+2023-05-20 02:02:29     self._run_once()
+2023-05-20 02:02:29   File "/usr/lib/python3.10/asyncio/base_events.py", line 1896, in _run_once
+2023-05-20 02:02:29     handle._run()
+2023-05-20 02:02:29   File "/usr/lib/python3.10/asyncio/events.py", line 80, in _run
+2023-05-20 02:02:29     self._context.run(self._callback, *self._args)
+2023-05-20 02:02:29   File "/usr/local/lib/python3.10/dist-packages/uvicorn/protocols/http/httptools_impl.py", line 419, in run_asgi
+2023-05-20 02:02:29     result = await app(  # type: ignore[func-returns-value]
+2023-05-20 02:02:29   File "/usr/local/lib/python3.10/dist-packages/uvicorn/middleware/proxy_headers.py", line 78, in __call__
+2023-05-20 02:02:29     return await self.app(scope, receive, send)
+2023-05-20 02:02:29   File "/usr/local/lib/python3.10/dist-packages/fastapi/applications.py", line 271, in __call__
+2023-05-20 02:02:29     await super().__call__(scope, receive, send)
+2023-05-20 02:02:29   File "/usr/local/lib/python3.10/dist-packages/starlette/applications.py", line 118, in __call__
+2023-05-20 02:02:29     await self.middleware_stack(scope, receive, send)
+2023-05-20 02:02:29   File "/usr/local/lib/python3.10/dist-packages/starlette/middleware/errors.py", line 162, in __call__
+2023-05-20 02:02:29     await self.app(scope, receive, _send)
+2023-05-20 02:02:29   File "/usr/local/lib/python3.10/dist-packages/starlette/middleware/exceptions.py", line 68, in __call__
+2023-05-20 02:02:29     await self.app(scope, receive, sender)
+2023-05-20 02:02:29   File "/usr/local/lib/python3.10/dist-packages/fastapi/middleware/asyncexitstack.py", line 18, in __call__
+2023-05-20 02:02:29     await self.app(scope, receive, send)
+2023-05-20 02:02:29   File "/usr/local/lib/python3.10/dist-packages/starlette/routing.py", line 706, in __call__
+2023-05-20 02:02:29     await route.handle(scope, receive, send)
+2023-05-20 02:02:29   File "/usr/local/lib/python3.10/dist-packages/starlette/routing.py", line 276, in handle
+2023-05-20 02:02:29     await self.app(scope, receive, send)
+2023-05-20 02:02:29   File "/usr/local/lib/python3.10/dist-packages/starlette/routing.py", line 66, in app
+2023-05-20 02:02:29     response = await func(request)
+2023-05-20 02:02:29   File "/usr/local/lib/python3.10/dist-packages/fastapi/routing.py", line 237, in app
+2023-05-20 02:02:29     raw_response = await run_endpoint_function(
+2023-05-20 02:02:29   File "/usr/local/lib/python3.10/dist-packages/fastapi/routing.py", line 163, in run_endpoint_function
+2023-05-20 02:02:29     return await dependant.call(**values)
+2023-05-20 02:02:29   File "/./service_main.py", line 105, in read_presentation
+2023-05-20 02:02:29     author = get_author(presentation.author_id)
+2023-05-20 02:02:29   File "/./circuitbreaker.py", line 159, in wrapper
+2023-05-20 02:02:29     return call(function, *args, **kwargs)
+2023-05-20 02:02:29   File "/./circuitbreaker.py", line 170, in call
+2023-05-20 02:02:29     return func(*args, **kwargs)
+2023-05-20 02:02:29   File "/./service_main.py", line 76, in get_author
+2023-05-20 02:02:29     logging.warning(">>> Error Connecting:", errc)
+2023-05-20 02:02:29 Message: '>>> Error Connecting:'
+2023-05-20 02:02:29 Arguments: (ConnectionError(MaxRetryError("HTTPConnectionPool(host='service_author', port=8081): Max retries exceeded with url: /authors/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb65f4d8910>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))")),)
+2023-05-20 02:02:30 WARNING:root:Circuit "get_author" is "open", failures: 7
+2023-05-20 02:02:30 WARNING:root:
+2023-05-20 02:02:30 CRITICAL:root:Circuit OPEN
+2023-05-20 02:02:31 WARNING:root:Circuit "get_author" is "open", failures: 7
+2023-05-20 02:02:31 WARNING:root:
+2023-05-20 02:02:32 WARNING:root:Circuit "get_author" is "open", failures: 7
+2023-05-20 02:02:32 WARNING:root:
+2023-05-20 02:02:32 CRITICAL:root:Circuit OPEN
+2023-05-20 02:02:33 WARNING:root:Circuit "get_author" is "open", failures: 7
+2023-05-20 02:02:33 WARNING:root:
+2023-05-20 02:02:33 CRITICAL:root:Circuit OPEN
+2023-05-20 02:02:34 WARNING:root:Circuit "get_author" is "open", failures: 7
+2023-05-20 02:02:34 WARNING:root:
+2023-05-20 02:02:34 CRITICAL:root:Circuit OPEN
+2023-05-20 02:02:35 WARNING:root:Circuit "get_author" is "open", failures: 7
+2023-05-20 02:02:35 WARNING:root:
+2023-05-20 02:02:35 CRITICAL:root:Circuit OPEN
+2023-05-20 02:02:36 WARNING:root:Circuit "get_author" is "open", failures: 7
+2023-05-20 02:02:36 WARNING:root:
+2023-05-20 02:02:36 CRITICAL:root:Circuit OPEN
+2023-05-20 02:02:37 WARNING:root:Circuit "get_author" is "open", failures: 7
+2023-05-20 02:02:37 WARNING:root:
+2023-05-20 02:02:37 CRITICAL:root:Circuit OPEN
+2023-05-20 02:02:38 WARNING:root:Circuit "get_author" is "open", failures: 7
+2023-05-20 02:02:38 WARNING:root:
+2023-05-20 02:02:38 CRITICAL:root:Circuit OPEN
+2023-05-20 02:02:39 WARNING:root:Circuit "get_author" is "open", failures: 7
+2023-05-20 02:02:39 WARNING:root:
+2023-05-20 02:02:40 WARNING:root:Circuit "get_author" is "half_open", failures: 7
+2023-05-20 02:02:36 INFO:     172.19.0.1:40106 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 02:02:37 INFO:     172.19.0.1:40110 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 02:02:38 INFO:     172.19.0.1:40114 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 02:02:40 WARNING:root:
+2023-05-20 02:02:41 WARNING:root:Circuit "get_author" is "half_open", failures: 7
+2023-05-20 02:02:41 WARNING:root:
+2023-05-20 02:02:42 WARNING:root:Circuit "get_author" is "half_open", failures: 7
+2023-05-20 02:02:42 WARNING:root:
+2023-05-20 02:02:43 WARNING:root:Circuit "get_author" is "half_open", failures: 7
+2023-05-20 02:02:43 WARNING:root:
+2023-05-20 02:02:44 WARNING:root:Circuit "get_author" is "half_open", failures: 7
+2023-05-20 02:02:44 WARNING:root:
+2023-05-20 02:02:45 WARNING:root:Circuit "get_author" is "half_open", failures: 7
+2023-05-20 02:02:45 WARNING:root:
+2023-05-20 02:02:46 WARNING:root:Circuit "get_author" is "half_open", failures: 7
+2023-05-20 02:02:46 WARNING:root:
+2023-05-20 02:02:47 WARNING:root:Circuit "get_author" is "half_open", failures: 7
+2023-05-20 02:02:47 WARNING:root:
+2023-05-20 02:02:48 WARNING:root:Circuit "get_author" is "half_open", failures: 7
+2023-05-20 02:02:48 WARNING:root:
+2023-05-20 02:02:49 WARNING:root:Circuit "get_author" is "half_open", failures: 7
+2023-05-20 02:02:49 WARNING:root:
+2023-05-20 02:02:49 --- Logging error ---
+2023-05-20 02:02:49 Traceback (most recent call last):
+2023-05-20 02:02:49   File "/usr/local/lib/python3.10/dist-packages/urllib3/connection.py", line 174, in _new_conn
+2023-05-20 02:02:49     conn = connection.create_connection(
+2023-05-20 02:02:49   File "/usr/local/lib/python3.10/dist-packages/urllib3/util/connection.py", line 72, in create_connection
+2023-05-20 02:02:49     for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+2023-05-20 02:02:49   File "/usr/lib/python3.10/socket.py", line 955, in getaddrinfo
+2023-05-20 02:02:49     for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+2023-05-20 02:02:49 socket.gaierror: [Errno -3] Temporary failure in name resolution
+2023-05-20 02:02:49 
+2023-05-20 02:02:49 During handling of the above exception, another exception occurred:
+2023-05-20 02:02:49 
+2023-05-20 02:02:49 Traceback (most recent call last):
+2023-05-20 02:02:49   File "/usr/local/lib/python3.10/dist-packages/urllib3/connectionpool.py", line 703, in urlopen
+2023-05-20 02:02:49     httplib_response = self._make_request(
+2023-05-20 02:02:49   File "/usr/local/lib/python3.10/dist-packages/urllib3/connectionpool.py", line 398, in _make_request
+2023-05-20 02:02:49     conn.request(method, url, **httplib_request_kw)
+2023-05-20 02:02:49   File "/usr/local/lib/python3.10/dist-packages/urllib3/connection.py", line 239, in request
+2023-05-20 02:02:49     super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+2023-05-20 02:02:49   File "/usr/lib/python3.10/http/client.py", line 1282, in request
+2023-05-20 02:02:49     self._send_request(method, url, body, headers, encode_chunked)
+2023-05-20 02:02:49   File "/usr/lib/python3.10/http/client.py", line 1328, in _send_request
+2023-05-20 02:02:49     self.endheaders(body, encode_chunked=encode_chunked)
+2023-05-20 02:02:49   File "/usr/lib/python3.10/http/client.py", line 1277, in endheaders
+2023-05-20 02:02:49     self._send_output(message_body, encode_chunked=encode_chunked)
+2023-05-20 02:02:49   File "/usr/lib/python3.10/http/client.py", line 1037, in _send_output
+2023-05-20 02:02:49     self.send(msg)
+2023-05-20 02:02:49   File "/usr/lib/python3.10/http/client.py", line 975, in send
+2023-05-20 02:02:49     self.connect()
+2023-05-20 02:02:49   File "/usr/local/lib/python3.10/dist-packages/urllib3/connection.py", line 205, in connect
+2023-05-20 02:02:49     conn = self._new_conn()
+2023-05-20 02:02:49   File "/usr/local/lib/python3.10/dist-packages/urllib3/connection.py", line 186, in _new_conn
+2023-05-20 02:02:49     raise NewConnectionError(
+2023-05-20 02:02:49 urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x7fb65f4d96f0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution
+2023-05-20 02:02:49 
+2023-05-20 02:02:49 During handling of the above exception, another exception occurred:
+2023-05-20 02:02:49 
+2023-05-20 02:02:49 Traceback (most recent call last):
+2023-05-20 02:02:49   File "/usr/local/lib/python3.10/dist-packages/requests/adapters.py", line 489, in send
+2023-05-20 02:02:49     resp = conn.urlopen(
+2023-05-20 02:02:49   File "/usr/local/lib/python3.10/dist-packages/urllib3/connectionpool.py", line 787, in urlopen
+2023-05-20 02:02:49     retries = retries.increment(
+2023-05-20 02:02:49   File "/usr/local/lib/python3.10/dist-packages/urllib3/util/retry.py", line 592, in increment
+2023-05-20 02:02:49     raise MaxRetryError(_pool, url, error or ResponseError(cause))
+2023-05-20 02:02:49 urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='service_author', port=8081): Max retries exceeded with url: /authors/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb65f4d96f0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+2023-05-20 02:02:49 
+2023-05-20 02:02:49 During handling of the above exception, another exception occurred:
+2023-05-20 02:02:49 
+2023-05-20 02:02:49 Traceback (most recent call last):
+2023-05-20 02:02:49   File "/./service_main.py", line 74, in get_author
+2023-05-20 02:02:49     response_author = requests.get("http://" + service_author + "/authors/" + str(id))
+2023-05-20 02:02:49   File "/usr/local/lib/python3.10/dist-packages/requests/api.py", line 73, in get
+2023-05-20 02:02:49     return request("get", url, params=params, **kwargs)
+2023-05-20 02:02:49   File "/usr/local/lib/python3.10/dist-packages/requests/api.py", line 59, in request
+2023-05-20 02:02:49     return session.request(method=method, url=url, **kwargs)
+2023-05-20 02:02:49   File "/usr/local/lib/python3.10/dist-packages/requests/sessions.py", line 587, in request
+2023-05-20 02:02:49     resp = self.send(prep, **send_kwargs)
+2023-05-20 02:02:49   File "/usr/local/lib/python3.10/dist-packages/requests/sessions.py", line 701, in send
+2023-05-20 02:02:49     r = adapter.send(request, **kwargs)
+2023-05-20 02:02:49   File "/usr/local/lib/python3.10/dist-packages/requests/adapters.py", line 565, in send
+2023-05-20 02:02:49     raise ConnectionError(e, request=request)
+2023-05-20 02:02:49 requests.exceptions.ConnectionError: HTTPConnectionPool(host='service_author', port=8081): Max retries exceeded with url: /authors/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb65f4d96f0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+2023-05-20 02:02:49 
+2023-05-20 02:02:49 During handling of the above exception, another exception occurred:
+2023-05-20 02:02:49 
+2023-05-20 02:02:49 Traceback (most recent call last):
+2023-05-20 02:02:49   File "/usr/lib/python3.10/logging/__init__.py", line 1100, in emit
+2023-05-20 02:02:49     msg = self.format(record)
+2023-05-20 02:02:49   File "/usr/lib/python3.10/logging/__init__.py", line 943, in format
+2023-05-20 02:02:49     return fmt.format(record)
+2023-05-20 02:02:49   File "/usr/lib/python3.10/logging/__init__.py", line 678, in format
+2023-05-20 02:02:49     record.message = record.getMessage()
+2023-05-20 02:02:49   File "/usr/lib/python3.10/logging/__init__.py", line 368, in getMessage
+2023-05-20 02:02:49     msg = msg % self.args
+2023-05-20 02:02:49 TypeError: not all arguments converted during string formatting
+2023-05-20 02:02:49 Call stack:
+2023-05-20 02:02:49   File "<string>", line 1, in <module>
+2023-05-20 02:02:49   File "/usr/lib/python3.10/multiprocessing/spawn.py", line 116, in spawn_main
+2023-05-20 02:02:49     exitcode = _main(fd, parent_sentinel)
+2023-05-20 02:02:49   File "/usr/lib/python3.10/multiprocessing/spawn.py", line 129, in _main
+2023-05-20 02:02:49     return self._bootstrap(parent_sentinel)
+2023-05-20 02:02:49   File "/usr/lib/python3.10/multiprocessing/process.py", line 314, in _bootstrap
+2023-05-20 02:02:49     self.run()
+2023-05-20 02:02:49   File "/usr/lib/python3.10/multiprocessing/process.py", line 108, in run
+2023-05-20 02:02:49     self._target(*self._args, **self._kwargs)
+2023-05-20 02:02:49   File "/usr/local/lib/python3.10/dist-packages/uvicorn/_subprocess.py", line 76, in subprocess_started
+2023-05-20 02:02:49     target(sockets=sockets)
+2023-05-20 02:02:49   File "/usr/local/lib/python3.10/dist-packages/uvicorn/server.py", line 60, in run
+2023-05-20 02:02:49     return asyncio.run(self.serve(sockets=sockets))
+2023-05-20 02:02:49   File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+2023-05-20 02:02:49     return loop.run_until_complete(main)
+2023-05-20 02:02:49   File "/usr/lib/python3.10/asyncio/base_events.py", line 633, in run_until_complete
+2023-05-20 02:02:49     self.run_forever()
+2023-05-20 02:02:49   File "/usr/lib/python3.10/asyncio/base_events.py", line 600, in run_forever
+2023-05-20 02:02:49     self._run_once()
+2023-05-20 02:02:49   File "/usr/lib/python3.10/asyncio/base_events.py", line 1896, in _run_once
+2023-05-20 02:02:49     handle._run()
+2023-05-20 02:02:49   File "/usr/lib/python3.10/asyncio/events.py", line 80, in _run
+2023-05-20 02:02:49     self._context.run(self._callback, *self._args)
+2023-05-20 02:02:49   File "/usr/local/lib/python3.10/dist-packages/uvicorn/protocols/http/httptools_impl.py", line 419, in run_asgi
+2023-05-20 02:02:49     result = await app(  # type: ignore[func-returns-value]
+2023-05-20 02:02:49   File "/usr/local/lib/python3.10/dist-packages/uvicorn/middleware/proxy_headers.py", line 78, in __call__
+2023-05-20 02:02:49     return await self.app(scope, receive, send)
+2023-05-20 02:02:49   File "/usr/local/lib/python3.10/dist-packages/fastapi/applications.py", line 271, in __call__
+2023-05-20 02:02:49     await super().__call__(scope, receive, send)
+2023-05-20 02:02:49   File "/usr/local/lib/python3.10/dist-packages/starlette/applications.py", line 118, in __call__
+2023-05-20 02:02:49     await self.middleware_stack(scope, receive, send)
+2023-05-20 02:02:49   File "/usr/local/lib/python3.10/dist-packages/starlette/middleware/errors.py", line 162, in __call__
+2023-05-20 02:02:49     await self.app(scope, receive, _send)
+2023-05-20 02:02:49   File "/usr/local/lib/python3.10/dist-packages/starlette/middleware/exceptions.py", line 68, in __call__
+2023-05-20 02:02:49     await self.app(scope, receive, sender)
+2023-05-20 02:02:49   File "/usr/local/lib/python3.10/dist-packages/fastapi/middleware/asyncexitstack.py", line 18, in __call__
+2023-05-20 02:02:49     await self.app(scope, receive, send)
+2023-05-20 02:02:49   File "/usr/local/lib/python3.10/dist-packages/starlette/routing.py", line 706, in __call__
+2023-05-20 02:02:49     await route.handle(scope, receive, send)
+2023-05-20 02:02:49   File "/usr/local/lib/python3.10/dist-packages/starlette/routing.py", line 276, in handle
+2023-05-20 02:02:49     await self.app(scope, receive, send)
+2023-05-20 02:02:49   File "/usr/local/lib/python3.10/dist-packages/starlette/routing.py", line 66, in app
+2023-05-20 02:02:49     response = await func(request)
+2023-05-20 02:02:49   File "/usr/local/lib/python3.10/dist-packages/fastapi/routing.py", line 237, in app
+2023-05-20 02:02:49     raw_response = await run_endpoint_function(
+2023-05-20 02:02:49   File "/usr/local/lib/python3.10/dist-packages/fastapi/routing.py", line 163, in run_endpoint_function
+2023-05-20 02:02:49     return await dependant.call(**values)
+2023-05-20 02:02:49   File "/./service_main.py", line 105, in read_presentation
+2023-05-20 02:02:49     author = get_author(presentation.author_id)
+2023-05-20 02:02:49   File "/./circuitbreaker.py", line 159, in wrapper
+2023-05-20 02:02:49     return call(function, *args, **kwargs)
+2023-05-20 02:02:49   File "/./circuitbreaker.py", line 170, in call
+2023-05-20 02:02:49     return func(*args, **kwargs)
+2023-05-20 02:02:49   File "/./service_main.py", line 76, in get_author
+2023-05-20 02:02:49     logging.warning(">>> Error Connecting:", errc)
+2023-05-20 02:02:49 Message: '>>> Error Connecting:'
+2023-05-20 02:02:49 Arguments: (ConnectionError(MaxRetryError("HTTPConnectionPool(host='service_author', port=8081): Max retries exceeded with url: /authors/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb65f4d96f0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))")),)
+2023-05-20 02:02:50 WARNING:root:Circuit "get_author" is "open", failures: 8
+2023-05-20 02:02:50 WARNING:root:
+2023-05-20 02:02:51 WARNING:root:Circuit "get_author" is "open", failures: 8
+2023-05-20 02:02:51 WARNING:root:
+2023-05-20 02:02:52 CRITICAL:root:Circuit OPEN
+2023-05-20 02:02:52 WARNING:root:Circuit "get_author" is "open", failures: 8
+2023-05-20 02:02:52 WARNING:root:
+2023-05-20 02:02:53 WARNING:root:Circuit "get_author" is "open", failures: 8
+2023-05-20 02:02:53 WARNING:root:
+2023-05-20 02:02:54 CRITICAL:root:Circuit OPEN
+2023-05-20 02:02:54 WARNING:root:Circuit "get_author" is "open", failures: 8
+2023-05-20 02:02:54 WARNING:root:
+2023-05-20 02:02:55 CRITICAL:root:Circuit OPEN
+2023-05-20 02:02:55 WARNING:root:Circuit "get_author" is "open", failures: 8
+2023-05-20 02:02:55 WARNING:root:
+2023-05-20 02:02:56 CRITICAL:root:Circuit OPEN
+2023-05-20 02:02:56 WARNING:root:Circuit "get_author" is "open", failures: 8
+2023-05-20 02:02:56 WARNING:root:
+2023-05-20 02:02:57 CRITICAL:root:Circuit OPEN
+2023-05-20 02:02:57 WARNING:root:Circuit "get_author" is "open", failures: 8
+2023-05-20 02:02:57 WARNING:root:
+2023-05-20 02:02:58 CRITICAL:root:Circuit OPEN
+2023-05-20 02:02:58 WARNING:root:Circuit "get_author" is "open", failures: 8
+2023-05-20 02:02:58 WARNING:root:
+2023-05-20 02:02:59 CRITICAL:root:Circuit OPEN
+2023-05-20 02:02:59 WARNING:root:Circuit "get_author" is "half_open", failures: 8
+2023-05-20 02:02:59 WARNING:root:
+2023-05-20 02:03:00 WARNING:root:Circuit "get_author" is "half_open", failures: 8
+2023-05-20 02:03:00 WARNING:root:
+2023-05-20 02:03:01 WARNING:root:Circuit "get_author" is "half_open", failures: 8
+2023-05-20 02:03:01 WARNING:root:
+2023-05-20 02:03:02 WARNING:root:Circuit "get_author" is "half_open", failures: 8
+2023-05-20 02:03:02 WARNING:root:
+2023-05-20 02:03:03 WARNING:root:Circuit "get_author" is "half_open", failures: 8
+2023-05-20 02:03:03 WARNING:root:
+2023-05-20 02:03:04 WARNING:root:Circuit "get_author" is "half_open", failures: 8
+2023-05-20 02:03:04 WARNING:root:
+2023-05-20 02:03:05 WARNING:root:Circuit "get_author" is "half_open", failures: 8
+2023-05-20 02:03:05 WARNING:root:
+2023-05-20 02:03:06 WARNING:root:Circuit "get_author" is "half_open", failures: 8
+2023-05-20 02:03:07 WARNING:root:
+2023-05-20 02:03:08 WARNING:root:Circuit "get_author" is "half_open", failures: 8
+2023-05-20 02:03:08 WARNING:root:
+2023-05-20 02:03:09 WARNING:root:Circuit "get_author" is "half_open", failures: 8
+2023-05-20 02:03:09 WARNING:root:
+2023-05-20 02:03:10 WARNING:root:Circuit "get_author" is "half_open", failures: 8
+2023-05-20 02:03:10 WARNING:root:
+2023-05-20 02:03:10 --- Logging error ---
+2023-05-20 02:03:10 Traceback (most recent call last):
+2023-05-20 02:03:10   File "/usr/local/lib/python3.10/dist-packages/urllib3/connection.py", line 174, in _new_conn
+2023-05-20 02:03:10     conn = connection.create_connection(
+2023-05-20 02:03:10   File "/usr/local/lib/python3.10/dist-packages/urllib3/util/connection.py", line 72, in create_connection
+2023-05-20 02:03:10     for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+2023-05-20 02:03:10   File "/usr/lib/python3.10/socket.py", line 955, in getaddrinfo
+2023-05-20 02:03:10     for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+2023-05-20 02:03:10 socket.gaierror: [Errno -3] Temporary failure in name resolution
+2023-05-20 02:03:10 
+2023-05-20 02:03:10 During handling of the above exception, another exception occurred:
+2023-05-20 02:03:10 
+2023-05-20 02:03:10 Traceback (most recent call last):
+2023-05-20 02:03:10   File "/usr/local/lib/python3.10/dist-packages/urllib3/connectionpool.py", line 703, in urlopen
+2023-05-20 02:03:10     httplib_response = self._make_request(
+2023-05-20 02:03:10   File "/usr/local/lib/python3.10/dist-packages/urllib3/connectionpool.py", line 398, in _make_request
+2023-05-20 02:03:10     conn.request(method, url, **httplib_request_kw)
+2023-05-20 02:03:10   File "/usr/local/lib/python3.10/dist-packages/urllib3/connection.py", line 239, in request
+2023-05-20 02:03:10     super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+2023-05-20 02:03:10   File "/usr/lib/python3.10/http/client.py", line 1282, in request
+2023-05-20 02:03:10     self._send_request(method, url, body, headers, encode_chunked)
+2023-05-20 02:03:10   File "/usr/lib/python3.10/http/client.py", line 1328, in _send_request
+2023-05-20 02:03:10     self.endheaders(body, encode_chunked=encode_chunked)
+2023-05-20 02:03:10   File "/usr/lib/python3.10/http/client.py", line 1277, in endheaders
+2023-05-20 02:03:10     self._send_output(message_body, encode_chunked=encode_chunked)
+2023-05-20 02:03:10   File "/usr/lib/python3.10/http/client.py", line 1037, in _send_output
+2023-05-20 02:03:10     self.send(msg)
+2023-05-20 02:03:10   File "/usr/lib/python3.10/http/client.py", line 975, in send
+2023-05-20 02:03:10     self.connect()
+2023-05-20 02:03:10   File "/usr/local/lib/python3.10/dist-packages/urllib3/connection.py", line 205, in connect
+2023-05-20 02:03:10     conn = self._new_conn()
+2023-05-20 02:03:10   File "/usr/local/lib/python3.10/dist-packages/urllib3/connection.py", line 186, in _new_conn
+2023-05-20 02:03:10     raise NewConnectionError(
+2023-05-20 02:03:10 urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x7fb65f4da5f0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution
+2023-05-20 02:03:10 
+2023-05-20 02:03:10 During handling of the above exception, another exception occurred:
+2023-05-20 02:03:10 
+2023-05-20 02:03:10 Traceback (most recent call last):
+2023-05-20 02:03:10   File "/usr/local/lib/python3.10/dist-packages/requests/adapters.py", line 489, in send
+2023-05-20 02:03:10     resp = conn.urlopen(
+2023-05-20 02:03:10   File "/usr/local/lib/python3.10/dist-packages/urllib3/connectionpool.py", line 787, in urlopen
+2023-05-20 02:03:10     retries = retries.increment(
+2023-05-20 02:03:10   File "/usr/local/lib/python3.10/dist-packages/urllib3/util/retry.py", line 592, in increment
+2023-05-20 02:03:10     raise MaxRetryError(_pool, url, error or ResponseError(cause))
+2023-05-20 02:03:10 urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='service_author', port=8081): Max retries exceeded with url: /authors/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb65f4da5f0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+2023-05-20 02:03:10 
+2023-05-20 02:03:10 During handling of the above exception, another exception occurred:
+2023-05-20 02:03:10 
+2023-05-20 02:03:10 Traceback (most recent call last):
+2023-05-20 02:03:10   File "/./service_main.py", line 74, in get_author
+2023-05-20 02:03:10     response_author = requests.get("http://" + service_author + "/authors/" + str(id))
+2023-05-20 02:03:10   File "/usr/local/lib/python3.10/dist-packages/requests/api.py", line 73, in get
+2023-05-20 02:03:10     return request("get", url, params=params, **kwargs)
+2023-05-20 02:03:10   File "/usr/local/lib/python3.10/dist-packages/requests/api.py", line 59, in request
+2023-05-20 02:03:10     return session.request(method=method, url=url, **kwargs)
+2023-05-20 02:03:10   File "/usr/local/lib/python3.10/dist-packages/requests/sessions.py", line 587, in request
+2023-05-20 02:03:10     resp = self.send(prep, **send_kwargs)
+2023-05-20 02:03:10   File "/usr/local/lib/python3.10/dist-packages/requests/sessions.py", line 701, in send
+2023-05-20 02:03:10     r = adapter.send(request, **kwargs)
+2023-05-20 02:03:10   File "/usr/local/lib/python3.10/dist-packages/requests/adapters.py", line 565, in send
+2023-05-20 02:03:10     raise ConnectionError(e, request=request)
+2023-05-20 02:03:10 requests.exceptions.ConnectionError: HTTPConnectionPool(host='service_author', port=8081): Max retries exceeded with url: /authors/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb65f4da5f0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+2023-05-20 02:03:10 
+2023-05-20 02:03:10 During handling of the above exception, another exception occurred:
+2023-05-20 02:03:10 
+2023-05-20 02:03:10 Traceback (most recent call last):
+2023-05-20 02:03:10   File "/usr/lib/python3.10/logging/__init__.py", line 1100, in emit
+2023-05-20 02:03:10     msg = self.format(record)
+2023-05-20 02:03:10   File "/usr/lib/python3.10/logging/__init__.py", line 943, in format
+2023-05-20 02:03:10     return fmt.format(record)
+2023-05-20 02:03:10   File "/usr/lib/python3.10/logging/__init__.py", line 678, in format
+2023-05-20 02:03:10     record.message = record.getMessage()
+2023-05-20 02:03:10   File "/usr/lib/python3.10/logging/__init__.py", line 368, in getMessage
+2023-05-20 02:03:10     msg = msg % self.args
+2023-05-20 02:03:10 TypeError: not all arguments converted during string formatting
+2023-05-20 02:03:10 Call stack:
+2023-05-20 02:03:10   File "<string>", line 1, in <module>
+2023-05-20 02:03:10   File "/usr/lib/python3.10/multiprocessing/spawn.py", line 116, in spawn_main
+2023-05-20 02:03:10     exitcode = _main(fd, parent_sentinel)
+2023-05-20 02:03:10   File "/usr/lib/python3.10/multiprocessing/spawn.py", line 129, in _main
+2023-05-20 02:03:10     return self._bootstrap(parent_sentinel)
+2023-05-20 02:03:10   File "/usr/lib/python3.10/multiprocessing/process.py", line 314, in _bootstrap
+2023-05-20 02:03:10     self.run()
+2023-05-20 02:03:10   File "/usr/lib/python3.10/multiprocessing/process.py", line 108, in run
+2023-05-20 02:03:10     self._target(*self._args, **self._kwargs)
+2023-05-20 02:03:10   File "/usr/local/lib/python3.10/dist-packages/uvicorn/_subprocess.py", line 76, in subprocess_started
+2023-05-20 02:03:10     target(sockets=sockets)
+2023-05-20 02:03:10   File "/usr/local/lib/python3.10/dist-packages/uvicorn/server.py", line 60, in run
+2023-05-20 02:03:10     return asyncio.run(self.serve(sockets=sockets))
+2023-05-20 02:03:10   File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+2023-05-20 02:03:10     return loop.run_until_complete(main)
+2023-05-20 02:03:10   File "/usr/lib/python3.10/asyncio/base_events.py", line 633, in run_until_complete
+2023-05-20 02:03:10     self.run_forever()
+2023-05-20 02:03:10   File "/usr/lib/python3.10/asyncio/base_events.py", line 600, in run_forever
+2023-05-20 02:03:10     self._run_once()
+2023-05-20 02:03:10   File "/usr/lib/python3.10/asyncio/base_events.py", line 1896, in _run_once
+2023-05-20 02:03:10     handle._run()
+2023-05-20 02:03:10   File "/usr/lib/python3.10/asyncio/events.py", line 80, in _run
+2023-05-20 02:03:10     self._context.run(self._callback, *self._args)
+2023-05-20 02:03:10   File "/usr/local/lib/python3.10/dist-packages/uvicorn/protocols/http/httptools_impl.py", line 419, in run_asgi
+2023-05-20 02:03:10     result = await app(  # type: ignore[func-returns-value]
+2023-05-20 02:03:10   File "/usr/local/lib/python3.10/dist-packages/uvicorn/middleware/proxy_headers.py", line 78, in __call__
+2023-05-20 02:03:10     return await self.app(scope, receive, send)
+2023-05-20 02:03:10   File "/usr/local/lib/python3.10/dist-packages/fastapi/applications.py", line 271, in __call__
+2023-05-20 02:03:10     await super().__call__(scope, receive, send)
+2023-05-20 02:03:10   File "/usr/local/lib/python3.10/dist-packages/starlette/applications.py", line 118, in __call__
+2023-05-20 02:03:10     await self.middleware_stack(scope, receive, send)
+2023-05-20 02:03:10   File "/usr/local/lib/python3.10/dist-packages/starlette/middleware/errors.py", line 162, in __call__
+2023-05-20 02:03:10     await self.app(scope, receive, _send)
+2023-05-20 02:03:10   File "/usr/local/lib/python3.10/dist-packages/starlette/middleware/exceptions.py", line 68, in __call__
+2023-05-20 02:03:10     await self.app(scope, receive, sender)
+2023-05-20 02:03:10   File "/usr/local/lib/python3.10/dist-packages/fastapi/middleware/asyncexitstack.py", line 18, in __call__
+2023-05-20 02:03:10     await self.app(scope, receive, send)
+2023-05-20 02:03:10   File "/usr/local/lib/python3.10/dist-packages/starlette/routing.py", line 706, in __call__
+2023-05-20 02:03:10     await route.handle(scope, receive, send)
+2023-05-20 02:03:10   File "/usr/local/lib/python3.10/dist-packages/starlette/routing.py", line 276, in handle
+2023-05-20 02:03:10     await self.app(scope, receive, send)
+2023-05-20 02:03:10   File "/usr/local/lib/python3.10/dist-packages/starlette/routing.py", line 66, in app
+2023-05-20 02:03:10     response = await func(request)
+2023-05-20 02:03:10   File "/usr/local/lib/python3.10/dist-packages/fastapi/routing.py", line 237, in app
+2023-05-20 02:03:10     raw_response = await run_endpoint_function(
+2023-05-20 02:03:10   File "/usr/local/lib/python3.10/dist-packages/fastapi/routing.py", line 163, in run_endpoint_function
+2023-05-20 02:03:10     return await dependant.call(**values)
+2023-05-20 02:03:10   File "/./service_main.py", line 105, in read_presentation
+2023-05-20 02:03:10     author = get_author(presentation.author_id)
+2023-05-20 02:03:10   File "/./circuitbreaker.py", line 159, in wrapper
+2023-05-20 02:03:10     return call(function, *args, **kwargs)
+2023-05-20 02:03:10   File "/./circuitbreaker.py", line 170, in call
+2023-05-20 02:03:10     return func(*args, **kwargs)
+2023-05-20 02:03:10   File "/./service_main.py", line 76, in get_author
+2023-05-20 02:03:10     logging.warning(">>> Error Connecting:", errc)
+2023-05-20 02:03:10 Message: '>>> Error Connecting:'
+2023-05-20 02:03:10 Arguments: (ConnectionError(MaxRetryError("HTTPConnectionPool(host='service_author', port=8081): Max retries exceeded with url: /authors/1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb65f4da5f0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))")),)
+2023-05-20 02:03:11 WARNING:root:Circuit "get_author" is "open", failures: 9
+2023-05-20 02:03:11 WARNING:root:
+2023-05-20 02:03:12 WARNING:root:Circuit "get_author" is "open", failures: 9
+2023-05-20 02:03:12 WARNING:root:
+2023-05-20 02:03:13 WARNING:root:Circuit "get_author" is "open", failures: 9
+2023-05-20 02:03:13 WARNING:root:
+2023-05-20 02:03:14 WARNING:root:Circuit "get_author" is "open", failures: 9
+2023-05-20 02:03:14 WARNING:root:
+2023-05-20 02:03:14 CRITICAL:root:Circuit OPEN
+2023-05-20 02:03:15 WARNING:root:Circuit "get_author" is "open", failures: 9
+2023-05-20 02:03:15 WARNING:root:
+2023-05-20 02:03:16 WARNING:root:Circuit "get_author" is "open", failures: 9
+2023-05-20 02:03:16 WARNING:root:
+2023-05-20 02:03:16 CRITICAL:root:Circuit OPEN
+2023-05-20 02:03:17 WARNING:root:Circuit "get_author" is "open", failures: 9
+2023-05-20 02:03:17 WARNING:root:
+2023-05-20 02:03:17 CRITICAL:root:Circuit OPEN
+2023-05-20 02:03:18 WARNING:root:Circuit "get_author" is "open", failures: 9
+2023-05-20 02:03:18 WARNING:root:
+2023-05-20 02:03:18 CRITICAL:root:Circuit OPEN
+2023-05-20 02:03:19 WARNING:root:Circuit "get_author" is "open", failures: 9
+2023-05-20 02:03:19 WARNING:root:
+2023-05-20 02:03:19 CRITICAL:root:Circuit OPEN
+2023-05-20 02:03:20 WARNING:root:Circuit "get_author" is "half_open", failures: 9
+2023-05-20 02:03:20 WARNING:root:
+2023-05-20 02:03:21 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 02:03:21 WARNING:root:
+2023-05-20 02:03:22 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 02:03:22 WARNING:root:
+2023-05-20 02:03:23 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 02:03:23 WARNING:root:
+2023-05-20 02:03:24 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 02:03:24 WARNING:root:
+2023-05-20 02:03:25 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 02:03:25 WARNING:root:
+2023-05-20 02:03:26 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 02:03:26 WARNING:root:
+2023-05-20 02:03:27 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 02:03:27 WARNING:root:
+2023-05-20 02:03:28 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 02:03:28 WARNING:root:
+2023-05-20 02:03:29 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 02:03:29 WARNING:root:
+2023-05-20 02:03:30 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 02:03:30 WARNING:root:
+2023-05-20 02:03:31 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 02:03:31 WARNING:root:
+2023-05-20 02:03:32 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 02:03:32 WARNING:root:
+2023-05-20 02:03:33 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 02:03:33 WARNING:root:
+2023-05-20 02:02:49 INFO:     172.19.0.1:40118 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 500 Internal Server Error
+2023-05-20 02:02:52 INFO:     172.19.0.1:40122 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 02:02:54 INFO:     172.19.0.1:40126 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 02:02:55 INFO:     172.19.0.1:40130 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 02:02:56 INFO:     172.19.0.1:40134 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 02:02:57 INFO:     172.19.0.1:40138 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 02:02:58 INFO:     172.19.0.1:40142 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 02:02:59 INFO:     172.19.0.1:40146 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 02:03:10 INFO:     172.19.0.1:40150 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 500 Internal Server Error
+2023-05-20 02:03:14 INFO:     172.19.0.1:40154 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 02:03:16 INFO:     172.19.0.1:40158 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 02:03:17 INFO:     172.19.0.1:40162 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 02:03:18 INFO:     172.19.0.1:40166 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 02:03:19 INFO:     172.19.0.1:40170 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 02:03:20 Moore
+2023-05-20 02:03:20 INFO:     172.19.0.1:40174 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 02:03:21 Moore
+2023-05-20 02:03:21 INFO:     172.19.0.1:40180 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 02:03:21 Moore
+2023-05-20 02:03:21 INFO:     172.19.0.1:40186 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 02:03:22 Moore
+2023-05-20 02:03:22 INFO:     172.19.0.1:40192 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 02:03:23 Moore
+2023-05-20 02:03:23 INFO:     172.19.0.1:40198 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 02:03:24 Moore
+2023-05-20 02:03:24 INFO:     172.19.0.1:40204 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 02:03:25 Moore
+2023-05-20 02:03:25 INFO:     172.19.0.1:40210 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 02:03:26 Moore
+2023-05-20 02:03:26 INFO:     172.19.0.1:40216 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 02:03:26 Moore
+2023-05-20 02:03:26 INFO:     172.19.0.1:40222 - "GET /presentationsAndAuthor/First%20Presentation HTTP/1.1" 200 OK
+2023-05-20 02:03:34 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 02:03:34 WARNING:root:
+2023-05-20 02:03:35 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 02:03:35 WARNING:root:
+2023-05-20 02:03:36 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 02:03:36 WARNING:root:
+2023-05-20 02:03:37 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 02:03:37 WARNING:root:
+2023-05-20 02:03:38 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 02:03:38 WARNING:root:
+2023-05-20 02:03:39 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 02:03:39 WARNING:root:
+2023-05-20 02:03:40 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 02:03:40 WARNING:root:
+2023-05-20 02:03:41 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 02:03:41 WARNING:root:
+2023-05-20 02:03:42 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 02:03:42 WARNING:root:
+2023-05-20 02:03:43 WARNING:root:Circuit "get_author" is "closed", failures: 0
+2023-05-20 02:03:43 WARNING:root:
