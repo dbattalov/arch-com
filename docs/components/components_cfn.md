@@ -15,6 +15,7 @@ Person(usr, "Слушатель", "Участник конференции")
 
 
 System_Boundary(cnf, "Проведение конференции") {
+   ContainerDb(programm_db, "Доклады конференции", "PostgreSQL", "Хранение докладов")
    Container(access_demo, "Доступ к Демонстрации", "", "")
    Container(access_broadcast, "Доступ к Просмотру", "", "")   
    Container(feetback, "Оценка выступления", "", "")    
@@ -28,6 +29,8 @@ Rel(usr, access_broadcast, "Просмотр выступления", "")
 Rel(usr, feetback, "Оценить выступление", "SMTP")
 Rel(feetback, es, "Отправить уведомлени по e-mails", "SMTP")
 Rel(es, pbc, "Обратная связь по докладу", "SMTP")
+Rel(access_demo, programm_db, "Права на просмотр", "")
+Rel(access_broadcast, programm_db, "Права на трансляцию", "")
 
 
 Rel(access_demo, yt, "Трансляция выступления", "")

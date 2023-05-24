@@ -17,7 +17,6 @@ Person(adm, "Администратор оргкомитета", "Предста
 
 
 System_Boundary(ibs, "Обработка Заявок на Доклад") {
-   Container(web_form, "Прием заявки на сайте", "html, JavaScript", "Сайт helloconf.mts.ru")
    Container(lecture_service, "Заявки на Доклад", "Java, Spring Boot", "Сервис обработки заявок на Доклад")       
    ContainerDb(lecture_db, "Одобренные доклады", "PostgreSQL", "Хранение докладов")
 }
@@ -27,8 +26,7 @@ System_Ext(es, "Почтовый сервис", "Сервис отпправки
 
 
 
-Rel(pbc, web_form, "Заполнить форму заявки на сайте", "HTTPS")
-Rel(web_form, lecture_service, "Регистрация заявки", "HTTPS")
+Rel(pbc, lecture_service, "Прием заявки на сайте", "HTTPS")
 Rel(lecture_service, lecture_db, "Допуск доклада", "")
 Rel(adm, lecture_service, "Обработка заявки", "")
 Rel(lecture_service, es, "Отправить уведомлени по e-mails", "SMTP")
