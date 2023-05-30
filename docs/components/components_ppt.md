@@ -18,10 +18,14 @@ System_Boundary(ppt, "Компоновка программы конференц
    ContainerDb(conference_db, "Расписание", "PostgreSQL", "Хранение запланированных словов для конференций")
 }
 
+Container(lecture_good, "Одобренные доклады", "", "Хранение запланированных словов для конференций")
+Container(programm_db, "Доклады конференции", "", "Хранение запланированных словов для конференций")
 
 Rel(adm, conference_program, "Составление программы из докладов", "")
 Rel(conference_db, conference_program, "Свободны слоты проведения", "")
 
+Rel(lecture_good, conference_program, "Загрузка допущенных докладов", "")
+Rel(conference_program, programm_db, "Выгрузка докладов конференций", "")
 
 
 SHOW_LEGEND()

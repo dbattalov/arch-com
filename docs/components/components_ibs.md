@@ -22,6 +22,7 @@ System_Boundary(ibs, "Обработка Заявок на Доклад") {
    ContainerDb(lecture_db, "Доклады", "PostgreSQL", "Хранение докладов")
 }
 
+Container(conference_program, "Программа конференции", "")  
 System_Ext(antp, "Антиплагиат", "Российская система обнаружения текстовых заимствований")  
 System_Ext(es, "Почтовый сервис", "Сервис отпправки e-mail сообщений")
 
@@ -35,6 +36,8 @@ Rel(lecture_service, es, "Отправить уведомлени по e-mails",
 Rel(es, pbc, "Обратная связь по заявке", "SMTP")
 Rel(lecture_service, antp, "Запрос проверки", "")
 Rel(antp, lecture_service, "Результат проверки", "")
+
+Rel(lecture_good, conference_program, "Получение одобренных докладов", "")
 
 
 SHOW_LEGEND()
