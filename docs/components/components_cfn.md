@@ -15,11 +15,14 @@ Person(usr, "Слушатель", "Участник конференции")
 
 
 System_Boundary(cnf, "Проведение конференции") {
-   ContainerDb(programm_db, "Доклады конференции", "PostgreSQL", "Хранение докладов")
+   Container(programm_db, "Доклады конференции", "", "")
+   ContainerDb(programm_dbase, "Доклады", "PostgreSQL", "Хранение докладов")
    Container(access_demo, "Доступ к Демонстрации", "", "")
    Container(access_broadcast, "Доступ к Просмотру", "", "")   
    Container(feetback, "Оценка выступления", "", "")    
 }
+
+Container(conference_program, "Программа конференции", "")  
 
 System_Ext(yt, "Видеосервис", "Видеосервис для проведения онлайн-трансляций")
 System_Ext(es, "Почтовый сервис", "Сервис отпправки e-mail сообщений")
@@ -37,6 +40,9 @@ Rel(access_demo, yt, "Трансляция выступления", "")
 Rel(access_broadcast, yt, "Просмотр выступления", "")
 
 
+
+Rel(conference_program, programm_db, "Получение повестки конференции", "")
+Rel(programm_db, programm_dbase, "Хранение доклада", "")
 SHOW_LEGEND()
 @enduml
 ```
