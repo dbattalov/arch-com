@@ -17,8 +17,9 @@ Person(adm, "Администратор оргкомитета", "Предста
 
 
 System_Boundary(ibs, "Обработка Заявок на Доклад") {
-   Container(lecture_service, "Заявки на Доклад", "Java, Spring Boot", "Сервис обработки заявок на Доклад")       
-   ContainerDb(lecture_db, "Одобренные доклады", "PostgreSQL", "Хранение докладов")
+   Container(lecture_service, "Заявки на Доклад", "Java, Spring Boot", "Сервис обработки заявок на Доклад")    
+   Container(lecture_good, "Одобренные доклады", "", "Хранение запланированных словов для конференций")   
+   ContainerDb(lecture_db, "Доклады", "PostgreSQL", "Хранение докладов")
 }
 
 System_Ext(antp, "Антиплагиат", "Российская система обнаружения текстовых заимствований")  
@@ -27,7 +28,8 @@ System_Ext(es, "Почтовый сервис", "Сервис отпправки
 
 
 Rel(pbc, lecture_service, "Прием заявки на сайте", "HTTPS")
-Rel(lecture_service, lecture_db, "Допуск доклада", "")
+Rel(lecture_service, lecture_good, "Допуск доклада", "")
+Rel(lecture_good, lecture_db, "Хранение доклада", "")
 Rel(adm, lecture_service, "Обработка заявки", "")
 Rel(lecture_service, es, "Отправить уведомлени по e-mails", "SMTP")
 Rel(es, pbc, "Обратная связь по заявке", "SMTP")
